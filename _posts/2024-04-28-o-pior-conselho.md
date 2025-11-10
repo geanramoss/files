@@ -57,4 +57,4 @@ Se ele não tivesse deixado, não teria vivido coisas maravilhosas ao lado dessa
 
 Hoje, o Eduardo compartilha a vida ao lado de alguém que o faz sentir algo único, **como todo novo amor.** E assim ele percebe que aquele conselho foi o pior que já recebeu na vida. Ainda bem que não seguiu.
 
-> **Ficou curioso pra conhecer o [Eduardo](https://instagram.com/moraeseduardo/) e a [Mari](https://instagram.com/marinamullerg/)?** Esse casal lindo e inspirador já [Veja Aqui](https://cdn.jsdelivr.net/gh/geanramos/hugo/img/moraeseduardo-e-marinamullerg1.jpg). 
+> **Ficou curioso pra conhecer o [Eduardo](https://instagram.com/moraeseduardo/) e a [Mari](https://instagram.com/marinamullerg/)?** Esse casal lindo e inspirador já [Veja Aqui](https://geanramos.comimg/moraeseduardo-e-marinamullerg1.jpg). 
