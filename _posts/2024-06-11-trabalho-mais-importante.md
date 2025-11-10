@@ -4,10 +4,10 @@ date: 2024-06-11 12:00:47 -03:00
 description: Desvende o caminho da verdadeira liderança, olhe para dentro. Liberte-se das amarras externas, alinhe-se com seus valores e seja autêntico.
 categories: ohayo
 tags: [ohayo]
-image: "https://geanramos.com/img/Shutterstock_2084661583.jpg"
+image: "./img/Shutterstock_2084661583.jpg"
 ---
 
-![FILOSOFANDO](https://geanramos.com/img/filosofando.png)
+![FILOSOFANDO](./img/filosofando.png)
 
 **Liberdade Interior, A Chave para o Verdadeiro Sucesso**
 

@@ -4,15 +4,15 @@ date: 2025-01-16 06:05:46 -03:00
 description: "Acorde para a felicidade: O que está fora de você não vai te ajudar, foco!"
 categories: ohayo
 tags: [ohayo]
-image: "https://geanramos.com/img/wake-up.jpg"
+image: "./img/wake-up.jpg"
 ---
 Se você pudesse apagar todas as coisas difíceis que te aconteceram, você faria isso? antes de responder, pense: quem você seria hoje sem essas coisas?
 
-![](https://geanramos.com/img/filosofando.png)
+![](./img/filosofando.png)
 
 > _"Quem olha para fora, sonha; quem olha para dentro, desperta."_   - Carl Jung
 
-![gean ramos - Acorde](https://geanramos.com/img/wake-up.jpg)
+![gean ramos - Acorde](./img/wake-up.jpg)
 
 A gente vive em um mundo onde o barulho, as imagens e as oportunidades não param. Parece que não tem descanso, né?
 

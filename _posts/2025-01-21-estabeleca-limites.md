@@ -4,10 +4,10 @@ date: 2025-01-21 02:30:00 -03:00
 description: "Descubra como estabelecer limites pode ser a chave para o crescimento pessoal e financeiro!"
 categories: arquivo
 tags: [ohayo]
-image: "https://geanramos.com/img/aged-couple-pensioners-talking-with-employee_1398-4339.jpg"
+image: "./img/aged-couple-pensioners-talking-with-employee_1398-4339.jpg"
 ---
 
-![Colocando Limites: A Chave para Crescer](https://geanramos.com/img/desabafo.png)
+![Colocando Limites: A Chave para Crescer](./img/desabafo.png)
 
 ### Colocando Limites: A Chave para Crescer
 
@@ -27,7 +27,7 @@ Uma conversa respeitosa e sincera pode ser suficiente para fazer isso e deixar c
 
 **ps:** No dia que lhe sobrar esse dinheiro, genuinamente, faça questão de que eles sejam os primeiros a receberem a ajuda que for necessária. Eles são seus pais, isso com certeza retornará de várias formas boas para você.
 
-![Encontre a Felicidade no Presente](https://geanramos.com/img/desabafo.png)
+![Encontre a Felicidade no Presente](./img/desabafo.png)
 
 
 

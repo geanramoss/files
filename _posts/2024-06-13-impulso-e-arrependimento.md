@@ -6,7 +6,7 @@ categories: ohayo
 tags: [ohayo]
 image: "https://i.imgur.com/7gY9d4P.jpeg"
 ---
-![](https://geanramos.com/img/rising-tag.png)
+![](./img/rising-tag.png)
 
 ![](https://i.imgur.com/7gY9d4P.jpeg)
 

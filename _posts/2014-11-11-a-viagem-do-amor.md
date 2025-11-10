@@ -4,10 +4,10 @@ date: 2014-11-11 06:01:00 -03:00
 description: "Ciúmes e controle? Só atrapalham a viagem do amor. Vem entender por quê."
 categories: arquivo
 tags: [arquivo, arquivo]
-image: "https://geanramos.com/img/amor-e-uma-viagem.jpg"
+image: "./img/amor-e-uma-viagem.jpg"
 ---
 
-![Gean Ramos - Amor é uma viagem: olhos no presente.](https://geanramos.com/img/amor-e-uma-viagem.jpg)
+![Gean Ramos - Amor é uma viagem: olhos no presente.](./img/amor-e-uma-viagem.jpg)
 
 **Você Já Reparou Como Não Sabemos Lidar com o Tempo?**
 

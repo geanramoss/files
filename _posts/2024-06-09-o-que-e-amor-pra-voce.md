@@ -7,7 +7,7 @@ tags: [memories]
 image: "https://i.pinimg.com/564x/12/f7/8c/12f78c80e1f144211034d4ee294e176e.jpg"
 ---
 
-![filosofando](https://geanramos.com/img/filosofando.png)
+![filosofando](./img/filosofando.png)
 
 
 Tentando buscar uma definição para o sentimento que move o mundo, perguntamos para alguns leitores **“o que era amor”.** Essas foram as respostas:

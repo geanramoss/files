@@ -7,7 +7,7 @@ tags: [memories]
 image: "https://img.freepik.com/fotos-gratis/cena-fotorrealista-de-uma-relacao-nao-monogamica_23-2151266402.jpg?t=st=1721573843~exp=1721577443~hmac=e18186bbc3c6ba992b0ee8580006d159dd1fff61be5997a49286e9b0bc441166&w=826"
 ---
 
-![As razões que o amor desconhece](https://geanramos.com/img/filosofando.png)
+![As razões que o amor desconhece](./img/filosofando.png)
 
 ![As razões que o amor desconhece](https://substack-post-media.s3.amazonaws.com/public/images/bc843938-7593-4675-8696-84bc9d352e27_735x909.jpeg)
 

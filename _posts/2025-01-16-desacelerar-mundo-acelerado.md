@@ -4,11 +4,11 @@ date: 2025-01-16 06:10:46 -03:00
 description: "O Grande Desafio: Desacelerar no Mundo Acelerado, O Tempo Está Correndo ou Somos Nós Que Corremos Demais"
 categories: ohayo
 tags: [ohayo]
-image: "https://geanramos.com/img/uma-multidao-de-pessoas-atravessa-uma-faixa-de-pedestres-em-uma-cidade.jpg"
+image: "./img/uma-multidao-de-pessoas-atravessa-uma-faixa-de-pedestres-em-uma-cidade.jpg"
 ---
 Se você pudesse apagar todas as coisas difíceis que te aconteceram, você faria isso? antes de responder, pense: quem você seria hoje sem essas coisas?
 
-![](https://geanramos.com/img/rising-tag.png)
+![](./img/rising-tag.png)
 
 > **O tempo** 
 > todo mundo fala que o tempo voa, mas será que não somos nós que tentamos correr mais rápido que ele? talvez, seja hora de parar de

@@ -4,15 +4,15 @@ date: 2025-01-16 05:05:46 -03:00
 description: "Medo de Mudar? A Vida Só Tem Um Caminho: Pra Frente! O Medo de Fracassar Está Te Paralisando?"
 categories: ohayo
 tags: [ohayo]
-image: "https://geanramos.com/img/medo-de-mudar.jpg"
+image: "./img/medo-de-mudar.jpg"
 ---
 Se você pudesse apagar todas as coisas difíceis que te aconteceram, você faria isso? antes de responder, pense: quem você seria hoje sem essas coisas?
 
-![](https://geanramos.com/img/desabafo.png)
+![](./img/desabafo.png)
 
 > _"Quem olha para fora, sonha; quem olha para dentro, desperta."_   - Carl Jung
 
-![gean ramos - O Medo de Fracassar Está Te Paralisando?](https://geanramos.com/img/medo-de-mudar.jpg)
+![gean ramos - O Medo de Fracassar Está Te Paralisando?](./img/medo-de-mudar.jpg)
 
 > Quero mudar de cidade e começar uma vida nova no ano que vem, mas...
 > ah, o medo de fracassar! E se der errado e eu tiver que voltar pra

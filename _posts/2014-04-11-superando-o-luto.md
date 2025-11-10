@@ -4,10 +4,10 @@ date: 2014-04-11 06:01:00 -03:00
 description: "Perder alguém é inevitável, mas o luto nos leva a descobertas profundas."
 categories: arquivo
 tags: [arquivo]
-image: "https://geanramos.com/img/coracao-partido.jpg"
+image: "./img/coracao-partido.jpg"
 ---
 
-![Gean Ramos - A Vida e a Perda: Enfrentando o Luto.](https://geanramos.com/img/coracao-partido.jpg)
+![Gean Ramos - A Vida e a Perda: Enfrentando o Luto.](./img/coracao-partido.jpg)
 
 **Luto: O Presente Que Não Queremos!**
 

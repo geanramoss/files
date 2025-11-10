@@ -6,7 +6,7 @@ categories: ohayo
 tags: [ohayo]
 image: "https://img.freepik.com/fotos-premium/dois-homens-de-pe-num-penhasco-um-dos-quais-e-vermelho_406811-38562.jpg"
 ---
-![perspectiva](https://geanramos.com/img/rising-tag.png)
+![perspectiva](./img/rising-tag.png)
 
 > Em um Mundo de Clones, Seja Você Mesmo!
 
@@ -29,6 +29,6 @@ Se você também está cansado de ser só mais um no meio da multidão, que tal 
 E aí, bora espalhar a diversidade e autenticidade por aí? Me segue nas redes sociais e vamos juntos nessa missão:
 
 * **Instagram:** [https://www.instagram.com/geanramus](https://www.instagram.com/geanramus)
-* **Site:** [https://geanramos.com/](https://geanramos.com/)
+* **Site:** [./](./)
 
 Lembre-se: você é único. Você é especial. E ser você mesmo é simplesmente incrível! ✨

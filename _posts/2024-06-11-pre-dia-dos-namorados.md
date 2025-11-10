@@ -7,7 +7,7 @@ tags: [ohayo]
 image: "https://img.freepik.com/fotos-gratis/casal-perto-do-rio-em-uma-manha-de-pesca_1157-31189.jpg"
 ---
 
-![FILOSOFANDO](https://geanramos.com/img/filosofando.png)
+![FILOSOFANDO](./img/filosofando.png)
 
 ![casal perto do rio em uma manha de pesca](https://img.freepik.com/fotos-gratis/casal-perto-do-rio-em-uma-manha-de-pesca_1157-31189.jpg)
 

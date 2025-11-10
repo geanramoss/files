@@ -4,10 +4,10 @@ date: 2015-02-18 06:01:00 -03:00
 description: "Cinzas de amor: quando a intensidade do carnaval se torna saudade."
 categories: arquivo
 tags: [arquivo, arquivo]
-image: "https://geanramos.com/img/cinzas-de-amor.jpg"
+image: "./img/cinzas-de-amor.jpg"
 ---
 
-![Gean Ramos - Cinzas de Amor: Reflexões Pós-Carnaval](https://geanramos.com/img/cinzas-de-amor.jpg)
+![Gean Ramos - Cinzas de Amor: Reflexões Pós-Carnaval](./img/cinzas-de-amor.jpg)
 
 **Cinzas de Amor**
 

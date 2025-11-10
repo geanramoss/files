@@ -7,7 +7,7 @@ tags: [ohayo]
 image: "https://img.freepik.com/fotos-gratis/close-up-mulher-segurando-bebe_23-2149071565.jpg"
 ---
 
-![FILOSOFANDO](https://geanramos.com/img/filosofando.png)
+![FILOSOFANDO](./img/filosofando.png)
 
 ![close up mulher segurando bebe](https://img.freepik.com/fotos-gratis/close-up-mulher-segurando-bebe_23-2149071565.jpg)
 

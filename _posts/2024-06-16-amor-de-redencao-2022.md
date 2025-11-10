@@ -6,7 +6,7 @@ categories: memories
 tags: [memories]
 image: "https://image.tmdb.org/t/p/original/t65Ug6pcWJCQVbU1J1dJnIHmW5P.jpg"
 ---
-![Viver com medo é viver pela metade](https://geanramos.com/img/na-gaveta.png)
+![Viver com medo é viver pela metade](./img/na-gaveta.png)
 
 
 Imagine isso: Califórnia, 1850. Em meio à febre do ouro, onde homens trocavam suas almas por um punhado de ouro e mulheres vendiam seus corpos por um lugar para dormir, uma história de redenção e amor incondicional floresce. Essa é a premissa de "_Amor de Redenção_", um romance épico e emocionante baseado no best-seller de Francine Rivers.

@@ -11,7 +11,7 @@ image: "https://media.beehiiv.com/uploads/asset/file/c683b349-6fab-4561-b0d5-a3d
 
 se você não perguntar, a resposta é sempre não. se não tentar, com certeza não vai conseguir. é realmente simples assim.
 
-![ohayo - bom dia - rising](https://geanramos.com/img/rising-tag.png)
+![ohayo - bom dia - rising](./img/rising-tag.png)
 
 
 ![por que não? a vida é curta](https://media.beehiiv.com/uploads/asset/file/c683b349-6fab-4561-b0d5-a3d4931956fe/IMG_4229.jpeg)
