@@ -2,7 +2,7 @@
 title: "Como uma onda"
 date: "2024-05-26T11:21:00-03:00"
 tags: [memories]
-images: "https://palavrasdosurf.wordpress.com/wp-content/uploads/2015/11/back-side.gif"
+image: "https://palavrasdosurf.wordpress.com/wp-content/uploads/2015/11/back-side.gif"
 ---
 
 ![Como uma onda - mulher surfando onda](https://palavrasdosurf.wordpress.com/wp-content/uploads/2015/11/back-side.gif)

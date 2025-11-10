@@ -4,7 +4,7 @@ date: 2024-07-14 10:13:47 -03:00
 description: "Conheça a história de Bruna e Josué, uma amizade que floresceu em amor e um relacionamento sincero"
 categories: memories
 tags: [memories]
-images: "https://img.freepik.com/fotos-gratis/par-jovem-mentir-grama-com-balloon-coracao_23-2148020049.jpg"
+image: "https://img.freepik.com/fotos-gratis/par-jovem-mentir-grama-com-balloon-coracao_23-2148020049.jpg"
 ---
 ![Quando a Amizade Vira Amor](https://img.freepik.com/fotos-gratis/par-jovem-mentir-grama-com-balloon-coracao_23-2148020049.jpg)
 

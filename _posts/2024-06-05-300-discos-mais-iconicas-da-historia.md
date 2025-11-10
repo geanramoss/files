@@ -4,7 +4,7 @@ date: 2024-06-05 16:49:47 -03:00
 description: Revista americana Paste elegeu os 300 melhores discos da história da música
 categories: notas
 tags: [notas]
-images: "https://img.pastemagazine.com/wp-content/uploads/2024/06/02030223/30C910D1-AA89-40A3-AD94-9AD54DDEAFB9.jpeg"
+image: "https://img.pastemagazine.com/wp-content/uploads/2024/06/02030223/30C910D1-AA89-40A3-AD94-9AD54DDEAFB9.jpeg"
 ---
 
 **E a [revista americana  _Paste_](https://www.pastemagazine.com/music/greatest-albums/the-300-greatest-albums-of-all-time-2)  elegeu os 300 melhores discos da história** da música com base em critérios como “influência e atemporalidade”. 

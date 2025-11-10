@@ -4,7 +4,7 @@ date: 2024-07-14 10:14:47 -03:00
 description: "Explorando o amor que nasce da amizade, Harry e Sally é um clássico atemporal das comédias românticas."
 categories: memories
 tags: [memories]
-images: "https://image.tmdb.org/t/p/original/1eZFaU90LPT8H2HIllQgQjiRDFX.jpg"
+image: "https://image.tmdb.org/t/p/original/1eZFaU90LPT8H2HIllQgQjiRDFX.jpg"
 ---
 ![Harry e Sally: Uma História de Amor que Começa na Amizade](https://image.tmdb.org/t/p/original/xd5SYDUhNVGLUeK2epbEjnVBpPN.jpg)
 

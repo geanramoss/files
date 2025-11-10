@@ -4,7 +4,7 @@ date: 2024-06-11 08:09:47 -03:00
 description: amanhã é dia de celebrar o amor. mas não se esqueça, impossível encontrar ele fora, sem antes encontrar dentro.
 categories: ohayo
 tags: [ohayo]
-images: "https://img.freepik.com/fotos-gratis/casal-perto-do-rio-em-uma-manha-de-pesca_1157-31189.jpg"
+image: "https://img.freepik.com/fotos-gratis/casal-perto-do-rio-em-uma-manha-de-pesca_1157-31189.jpg"
 ---
 
 ![FILOSOFANDO](https://cdn.jsdelivr.net/gh/geanramos/files/img/filosofando.png)

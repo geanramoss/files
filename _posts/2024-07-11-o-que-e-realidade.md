@@ -4,7 +4,7 @@ date: 2024-07-11 08:10:47 -03:00
 description: "Se as pessoas sentassem lá fora e olhassem as estrelas todas as noites, aposto que viveriam de forma muito diferente"
 categories: ohayo
 tags: [ohayo]
-images: "https://img.freepik.com/fotos-gratis/ceu-estrelado-sobre-a-cidade_23-2151642606.jpg?w=826"
+image: "https://img.freepik.com/fotos-gratis/ceu-estrelado-sobre-a-cidade_23-2151642606.jpg?w=826"
 ---
 
 ![](https://media.beehiiv.com/uploads/asset/file/829d2c6f-6adc-4259-83bc-01acbf1e2fd2/Untitled-112.png)

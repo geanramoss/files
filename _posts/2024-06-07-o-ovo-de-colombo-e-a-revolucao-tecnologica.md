@@ -4,7 +4,7 @@ date: 2024-06-07 18:00:47 -03:00
 description: Descubra como uma simples ideia de Colombo ilustra a evolução das tecnologias que transformaram nossa vida ao longo dos séculos.
 categories: wow
 tags: [wow]
-images: "https://i.imgur.com/SJ2EIhk.jpeg"
+image: "https://i.imgur.com/SJ2EIhk.jpeg"
 ---
 
 ![Filosofando](https://cdn.jsdelivr.net/gh/geanramos/files/img/filosofando.png)

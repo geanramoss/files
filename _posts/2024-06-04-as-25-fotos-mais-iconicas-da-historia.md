@@ -4,7 +4,7 @@ date: 2024-06-04 16:49:47 -03:00
 description: The New York Times elege as 25 fotografias mais significativas desde 1955.
 categories: notas
 tags: [notas]
-images: "./img/Robert-Doisneau-baiser.jpg.webp"
+image: "./img/Robert-Doisneau-baiser.jpg.webp"
 ---
 <div class="embed-responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VfLH0xJByiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

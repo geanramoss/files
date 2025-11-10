@@ -4,7 +4,7 @@ title: "Memórias que voltam sem pedir licença 🐘🖤"
 date: 2025-06-29 05:00:00 -0300
 description: "Sabe aquele ex que volta só na mente? Às vezes, é só um flash. Outras, é uma sessão completa de nostalgia com trilha sonora e tudo."
 tags: [ohayo]
-images: "./img/boas-memorias.jpg"
+image: "./img/boas-memorias.jpg"
 ---
 **💭 Elefantes têm memória boa... e eu também, viu?**
 

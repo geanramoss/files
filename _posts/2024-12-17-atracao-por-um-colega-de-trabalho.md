@@ -4,7 +4,7 @@ date: 2024-12-17 07:10:47 -03:00
 description: Como lidar com a atração por um colega de trabalho sem comprometer seu casamento? Descubra como manter o respeito e a fidelidade
 categories: ohayo
 tags: [ohayo]
-images: "https://geanramos.com/img/paixao-no-trabalho.jpg"
+image: "https://geanramos.com/img/paixao-no-trabalho.jpg"
 ---
 
 ![Trair ou respeitar meu casamento](https://cdn.jsdelivr.net/gh/geanramos/files/img/rising-tag.png)

@@ -4,7 +4,7 @@ date: 2024-06-20 09:00:10 -03:00
 description: Desafie-se a descobrir a verdade que você pode suportar! Encare seus medos com coragem e humor nessa jornada de autoconhecimento e transformação.
 categories: ohayo
 tags: [ohayo]
-images: "https://img.freepik.com/fotos-premium/mulher-de-negocios-bonita-e-animada-comemorando-resultados-de-projetos-financeiros-bem-sucedidos_1034143-697.jpg"
+image: "https://img.freepik.com/fotos-premium/mulher-de-negocios-bonita-e-animada-comemorando-resultados-de-projetos-financeiros-bem-sucedidos_1034143-697.jpg"
 ---
 
 > Em um mundo onde a maioria tenta ser igual, já parou pra pensar que o que te faz diferente é também o que te faz interessante?

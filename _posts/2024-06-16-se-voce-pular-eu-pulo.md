@@ -4,7 +4,7 @@ date: 2024-06-16 09:16:47 -03:00
 description: Amor impossível? Conheça a magia por trás da história de Jack e Rose e a teoria triangular do amor que faz essa história ressoar até hoje.
 categories: memories
 tags: [memories]
-images: "https://image.tmdb.org/t/p/original/q0UPmP4m7BpzxdcoYWCrJRoD8bj.jpg"
+image: "https://image.tmdb.org/t/p/original/q0UPmP4m7BpzxdcoYWCrJRoD8bj.jpg"
 ---
 
 ![](https://substack-post-media.s3.amazonaws.com/public/images/875aa0f3-7f13-4b80-864c-0b6e695e47a1_540x350.gif)

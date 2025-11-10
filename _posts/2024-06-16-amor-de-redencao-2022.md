@@ -4,7 +4,7 @@ date: 2024-06-16 13:14:47 -03:00
 description: Entre na emocionante jornada de Angel e Michael em "Amor de Redenção" e descubra o poder do amor incondicional e da fé.
 categories: memories
 tags: [memories]
-images: "https://image.tmdb.org/t/p/original/t65Ug6pcWJCQVbU1J1dJnIHmW5P.jpg"
+image: "https://image.tmdb.org/t/p/original/t65Ug6pcWJCQVbU1J1dJnIHmW5P.jpg"
 ---
 ![Viver com medo é viver pela metade](https://cdn.jsdelivr.net/gh/geanramos/files/img/na-gaveta.png)
 

@@ -4,7 +4,7 @@ date: 2024-12-15 08:03:47 -03:00
 description: "Tolstói revela como a felicidade está na paz interior, na natureza, no amor e na simplicidade do cotidiano. Reflexões sobre o que realmente importa."
 categories: memories
 tags: [memories]
-images: "https://geanramos.com/img/ressurreicao.jpg"
+image: "https://geanramos.com/img/ressurreicao.jpg"
 ---
 
 ![As razões que o amor desconhece](https://cdn.jsdelivr.net/gh/geanramos/files/img/filosofando.png)

@@ -4,7 +4,7 @@ title: "Um amor perdido em PE te procura em MG 💔"
 date: 2025-07-12 05:00:00 -0300
 description: "De Pernambuco a Minas, uma história de amor viraliza. Pedro busca o perdão de Rafaela com uma carta emocionante antes do aniversário dela. Ajude a encontrar!"
 tags: [ohayo]
-images: "./img/amor-perdido.jpg"
+image: "./img/amor-perdido.jpg"
 ---
 
 ### 💌 Cadê a Rafaela? A Carta de Amor Que Parou a Internet 💔

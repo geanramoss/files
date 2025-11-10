@@ -4,7 +4,7 @@ date: 2024-06-10 13:09:47 -03:00
 description: Montesquieu nos lembra que falar é fácil, mas pensar é fundamental. Em um mundo de discursos prontos, é hora de exercitar o cérebro e ser o dono das próprias ideias! 🤔💭
 categories: ohayo
 tags: [ohayo]
-images: "https://i.pinimg.com/736x/d3/2c/67/d32c6758736edec5964b880bb04200c7.jpg"
+image: "https://i.pinimg.com/736x/d3/2c/67/d32c6758736edec5964b880bb04200c7.jpg"
 ---
 
 ![FILOSOFANDO](https://cdn.jsdelivr.net/gh/geanramos/files/img/filosofando.png)

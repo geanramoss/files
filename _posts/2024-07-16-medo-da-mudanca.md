@@ -4,7 +4,7 @@ date: 2024-07-16 08:10:46 -03:00
 description: "Algumas mudanças simplesmente não podem ser forçadas, treinadas, ou planejadas."
 categories: ohayo
 tags: [ohayo]
-images: "https://64.media.tumblr.com/c0f3dfbeb875556fc5e99623a7621a0b/01410b5103c0e551-d9/s640x960/afc284445b5b058949eb2c02855f42f814dc467a.jpg"
+image: "https://64.media.tumblr.com/c0f3dfbeb875556fc5e99623a7621a0b/01410b5103c0e551-d9/s640x960/afc284445b5b058949eb2c02855f42f814dc467a.jpg"
 ---
 ![Filosofando: Medo da mudança](https://cdn.jsdelivr.net/gh/geanramos/files/img/filosofando.png)
 

@@ -4,7 +4,7 @@ date: 2024-06-13 09:10:47 -03:00
 description: Fuja do ciclo de arrependimento! Aprenda a usar sua comunicação com consciência, construindo relacionamentos sólidos e confiáveis.
 categories: ohayo
 tags: [ohayo]
-images: "https://i.imgur.com/7gY9d4P.jpeg"
+image: "https://i.imgur.com/7gY9d4P.jpeg"
 ---
 ![](https://cdn.jsdelivr.net/gh/geanramos/files/img/rising-tag.png)
 

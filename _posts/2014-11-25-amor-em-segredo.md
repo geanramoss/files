@@ -4,7 +4,7 @@ date: 2014-11-25 06:01:00 -03:00
 description: "Um amor não correspondido pode ser tão intenso quanto um verdadeiro? Descubra nesse relato!"
 categories: arquivo
 tags: [arquivo, arquivo]
-images: "https://geanramos.com/img/amor-em-segredo.jpg"
+image: "https://geanramos.com/img/amor-em-segredo.jpg"
 ---
 
 ![Gean Ramos - Encanto Secreto: Um Amor Platônico Revelado](https://geanramos.com/img/amor-em-segredo.jpg)

@@ -4,7 +4,7 @@ date: 2024-12-15 08:03:47 -03:00
 description: "Quando o pai de Kaísa é diagnosticado com câncer, ele descobre o poder da música e transforma seu relacionamento com a filha. Uma história de redenção e amor."
 categories: memories
 tags: [memories]
-images: "https://geanramos.com/img/te-amo-pai.jpg"
+image: "https://geanramos.com/img/te-amo-pai.jpg"
 ---
 
 ![As razões que o amor desconhece](https://cdn.jsdelivr.net/gh/geanramos/files/img/filosofando.png)

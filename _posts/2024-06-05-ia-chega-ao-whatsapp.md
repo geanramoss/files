@@ -3,7 +3,7 @@ title: Meta Lança Assistente de IA no Brasil - Novidade Chega ao WhatsApp, Inst
 date: 2024-06-06 18:00:47 -03:00
 description: A Meta lança em julho no Brasil sua IA no WhatsApp, Instagram, Facebook e Messenger. Alimentada pelo Llama 3, a IA responde perguntas, gera imagens e pesquisa online.
 tags: [notas]
-images: "https://i.imgur.com/PpZLXKG.jpeg"
+image: "https://i.imgur.com/PpZLXKG.jpeg"
 ---
 
 ![IA Chega ao WhatsApp, Instagram e Mais](https://i.imgur.com/PpZLXKG.jpeg)

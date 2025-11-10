@@ -4,7 +4,7 @@ date: 2024-07-16 08:10:45 -03:00
 description: "A inveja pode te prejudicar. Concentre-se em transformar esse sentimento em inspiração para se tornar um profissional mais preparado."
 categories: ohayo
 tags: [ohayo]
-images: "https://img.freepik.com/fotos-premium/garota-de-vista-lateral-sendo-intimidada-na-escola_23-2149583170.jpg?w=740"
+image: "https://img.freepik.com/fotos-premium/garota-de-vista-lateral-sendo-intimidada-na-escola_23-2149583170.jpg?w=740"
 ---
 ![Filosofando: Medo da mudança](https://cdn.jsdelivr.net/gh/geanramos/files/img/desabafo.png)
 

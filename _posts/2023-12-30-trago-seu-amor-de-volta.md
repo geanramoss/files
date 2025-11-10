@@ -2,7 +2,7 @@
 title: "Trago seu amor de volta"
 date: "2023-12-30"
 tags: [memories]
-images: "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*w3MvZcahejZ6IHY6CiH1LQ.jpeg"
+image: "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*w3MvZcahejZ6IHY6CiH1LQ.jpeg"
 ---
 
 ![Trago seu amor de volta](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*w3MvZcahejZ6IHY6CiH1LQ.jpeg)

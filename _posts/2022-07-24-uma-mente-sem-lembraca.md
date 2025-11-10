@@ -4,7 +4,7 @@ date: 2022-07-24 15:11:47 -03:00
 description: Tentar apagar memórias pode parecer tentador, mas será que realmente ajuda? Despedidas são difíceis, mas apagar memórias não resolve.
 categories: memories
 tags: [memories]
-images: "https://image.tmdb.org/t/p/original/12imOn96zRI2EMHOjOxm2qNY2BA.jpg"
+image: "https://image.tmdb.org/t/p/original/12imOn96zRI2EMHOjOxm2qNY2BA.jpg"
 ---
 
 ![Uma mente sem lembranças](https://themindofclementine.wordpress.com/wp-content/uploads/2015/04/wpid-brilho-eterno-de-uma-mente-sem-lembrancas-3.gif)

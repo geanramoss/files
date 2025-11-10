@@ -4,7 +4,7 @@ date: 2024-07-04 13:14:47 -03:00
 description: "Desabafo: Como recuperar a esperança e confiança após decepções amorosas? Explore caminhos para reconstruir relacionamentos com base na experiência"
 categories: memories
 tags: [memories]
-images: "https://img.freepik.com/fotos-gratis/jovem-mulher-beijando-o-namorado-em-casa_23-2147873731.jpg"
+image: "https://img.freepik.com/fotos-gratis/jovem-mulher-beijando-o-namorado-em-casa_23-2147873731.jpg"
 ---
 ![Tempo de Mudança: Construindo um Futuro Brilhante](https://cdn.jsdelivr.net/gh/geanramos/files/img/desabafo.png)
 

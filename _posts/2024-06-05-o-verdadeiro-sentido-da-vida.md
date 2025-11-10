@@ -4,7 +4,7 @@ date: 2024-06-06 15:10:47 -03:00
 description: Você já ouviu a frase "Quem não vive para servir, não serve para viver"? Se não, prepare-se para uma dose de sabedoria! exploraremos a importância de ser útil.
 categories: ohayo
 tags: [ohayo]
-images: "https://media.beehiiv.com/uploads/asset/file/ad195855-5e3d-40bb-aba3-afebd863cac3/_-208.jpg"
+image: "https://media.beehiiv.com/uploads/asset/file/ad195855-5e3d-40bb-aba3-afebd863cac3/_-208.jpg"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Até ficar velhinho"
 date: "2024-05-19T09:24:32-03:00"
 tags: [memories]
-images: "./img/ate-ficar-velhinho.jpg"
+image: "./img/ate-ficar-velhinho.jpg"
 ---
 
 ![Até ficar velhinho](./img/ate-ficar-velhinho.jpg)

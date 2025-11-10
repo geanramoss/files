@@ -2,7 +2,7 @@
 title: "Caprichos do destino"
 date: "2024-06-02T09:14:00-03:00"
 tags: [memories]
-images: "./img/caprichos-do-destino.jpeg"
+image: "./img/caprichos-do-destino.jpeg"
 ---
 
 ![Caprichos do destino](https://geanramos.comimg/caprichos-do-destino.jpeg)

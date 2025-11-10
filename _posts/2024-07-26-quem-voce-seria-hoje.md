@@ -4,7 +4,7 @@ date: 2024-07-26 09:10:46 -03:00
 description: "Se você pudesse apagar todas as coisas difíceis que te aconteceram, você faria isso?"
 categories: ohayo
 tags: [ohayo]
-images: "https://i.imgur.com/DBaHy1e.jpeg"
+image: "https://i.imgur.com/DBaHy1e.jpeg"
 ---
 Se você pudesse apagar todas as coisas difíceis que te aconteceram, você faria isso? antes de responder, pense: quem você seria hoje sem essas coisas?
 

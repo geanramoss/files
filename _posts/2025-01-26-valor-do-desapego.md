@@ -4,7 +4,7 @@ date: 2025-01-26 05:01:00 -03:00
 description: "Como desapegar das expectativas pode nos trazer paz e satisfação."
 categories: arquivo
 tags: [memories]
-images: "https://geanramos.com/img/menina-crianca-cheirando-uma-flor-de-peonia_561751-101.jpg"
+image: "https://geanramos.com/img/menina-crianca-cheirando-uma-flor-de-peonia_561751-101.jpg"
 ---
 
 ![Gean Ramos - Plante Sem Colher: Apreciando a Jornada da Vida](https://geanramos.com/img/menina-crianca-cheirando-uma-flor-de-peonia_561751-101.jpg)

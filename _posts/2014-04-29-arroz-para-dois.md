@@ -4,7 +4,7 @@ date: 2014-04-29 06:01:00 -03:00
 description: "De arroz pra um a arroz pra dois: a jornada de um coração."
 categories: arquivo
 tags: [arquivo]
-images: "https://geanramos.com/img/arroz-para-dois.jpg"
+image: "https://geanramos.com/img/arroz-para-dois.jpg"
 ---
 
 ![Gean Ramos - Arroz pra Dois: A Nova Jornada.](https://geanramos.com/img/arroz-para-dois.jpg)

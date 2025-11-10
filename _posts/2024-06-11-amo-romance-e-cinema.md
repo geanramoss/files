@@ -4,7 +4,7 @@ date: 2024-06-11 12:10:47 -03:00
 description: Uma Jornada Romântica através dos Melhores Filmes para você assistir com o mozão.
 categories: ohayo
 tags: [ohayo]
-images: "https://image.tmdb.org/t/p/original/fnhNLizu4YShGyaIAmUZ2ziOn2e.jpg"
+image: "https://image.tmdb.org/t/p/original/fnhNLizu4YShGyaIAmUZ2ziOn2e.jpg"
 ---
 ![na gaveta](https://cdn.jsdelivr.net/gh/geanramos/files/img/na-gaveta.png)
 

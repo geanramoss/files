@@ -4,7 +4,7 @@ title: "Entre Vinho, Beijos e Estrelas: Amor em Salvador 💌"
 date: 2025-06-08 05:00:00 -0300
 description: "Um match, uma noite mágica em Salvador e o reencontro três anos depois. Será que o para sempre mora na memória?"
 tags: [ohayo]
-images: "./img/amor-em-salvador.jpg"
+image: "./img/amor-em-salvador.jpg"
 ---
 Sabe aquela sensação de viver algo tão bom que parece que tudo ao redor se suspende? Que o tempo para, o mundo silencia e só o coração fala? Então. Mi viveu isso.
 

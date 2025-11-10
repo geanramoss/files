@@ -2,7 +2,7 @@
 title: "Cada pessoa é um oceano inteiro"
 date: "2024-05-26T11:20:00-03:00"
 tags: [memories]
-images: "./img/cada-pessoa-e-um-oceano-inteiro.jpg"
+image: "./img/cada-pessoa-e-um-oceano-inteiro.jpg"
 ---
 
 ![Cada pessoa é um oceano inteiro](./img/cada-pessoa-e-um-oceano-inteiro.jpg)

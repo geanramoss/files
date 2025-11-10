@@ -2,7 +2,7 @@
 title: "Menina da Lua"
 date: "2024-05-12T12:00:32+05:30"
 tags: [memories]
-images: "./img/menina-da-lua.jpg"
+image: "./img/menina-da-lua.jpg"
 ---
 
 ![Menina da Lua](./img/menina-da-lua.jpg)

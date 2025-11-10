@@ -4,7 +4,7 @@ date: 2024-06-18 08:30:47 -03:00
 description: Diminua expectativas, mude a si mesmo e valorize a juventude. Viva plenamente agora! 
 categories: ohayo
 tags: [ohayo]
-images: "https://img.freepik.com/fotos-gratis/mulher-encostada-na-parede-olhando-para-baixo-em-um-corredor-com-fundo-desfocado-na-ilha-de-alcatraz_181624-2279.jpg"
+image: "https://img.freepik.com/fotos-gratis/mulher-encostada-na-parede-olhando-para-baixo-em-um-corredor-com-fundo-desfocado-na-ilha-de-alcatraz_181624-2279.jpg"
 ---
 
 ![](https://cdn.jsdelivr.net/gh/geanramos/files/img/rising-tag.png)

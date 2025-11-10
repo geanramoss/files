@@ -4,7 +4,7 @@ date: 2024-07-18 08:10:45 -03:00
 description: "Seu problema tá fácil: o único fator que causa isso é você."
 categories: ohayo
 tags: [ohayo]
-images: "https://www.wikihow.com/images/thumb/0/03/Handle-a-Crazy-Sister-in-Law-Step-4-Version-2.jpg/v4-728px-Handle-a-Crazy-Sister-in-Law-Step-4-Version-2.jpg.webp"
+image: "https://www.wikihow.com/images/thumb/0/03/Handle-a-Crazy-Sister-in-Law-Step-4-Version-2.jpg/v4-728px-Handle-a-Crazy-Sister-in-Law-Step-4-Version-2.jpg.webp"
 ---
 ![Filosofando: Medo da mudança](https://cdn.jsdelivr.net/gh/geanramos/files/img/desabafo.png)
 

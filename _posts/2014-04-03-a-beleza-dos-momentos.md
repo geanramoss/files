@@ -4,7 +4,7 @@ date: 2014-04-03 06:01:00 -03:00
 description: "Apaixonar-se pode ser complicado, mas é bom demais! Descubra porquê."
 categories: arquivo
 tags: [arquivo]
-images: "https://geanramos.com/img/apaixonar-se.jpg"
+image: "https://geanramos.com/img/apaixonar-se.jpg"
 ---
 
 ![Gean Ramos - O curto e doce: Momentos que valem a pena na vida.](https://geanramos.com/img/apaixonar-se.jpg)

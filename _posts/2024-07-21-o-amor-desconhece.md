@@ -4,7 +4,7 @@ date: 2024-07-21 09:03:47 -03:00
 description: "Apesar de todas as suas qualidades incríveis, o amor não segue regras ou equações. Ele acontece por empatia, magnetismo e pura magia"
 categories: memories
 tags: [memories]
-images: "https://img.freepik.com/fotos-gratis/cena-fotorrealista-de-uma-relacao-nao-monogamica_23-2151266402.jpg?t=st=1721573843~exp=1721577443~hmac=e18186bbc3c6ba992b0ee8580006d159dd1fff61be5997a49286e9b0bc441166&w=826"
+image: "https://img.freepik.com/fotos-gratis/cena-fotorrealista-de-uma-relacao-nao-monogamica_23-2151266402.jpg?t=st=1721573843~exp=1721577443~hmac=e18186bbc3c6ba992b0ee8580006d159dd1fff61be5997a49286e9b0bc441166&w=826"
 ---
 
 ![As razões que o amor desconhece](https://cdn.jsdelivr.net/gh/geanramos/files/img/filosofando.png)

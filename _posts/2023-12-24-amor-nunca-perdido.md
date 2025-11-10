@@ -2,7 +2,7 @@
 title: "Amor nunca perdido"
 date: "2023-12-24"
 tags: [memories]
-images: "https://makalcloud.com/a/c0702cb940442976d05b01753fcb85c2/content/17.06.08-e8000595f5bded14ae56844f1134527a.jpeg"
+image: "https://makalcloud.com/a/c0702cb940442976d05b01753fcb85c2/content/17.06.08-e8000595f5bded14ae56844f1134527a.jpeg"
 ---
 
 ![amor nunca perdido](https://makalcloud.com/a/c0702cb940442976d05b01753fcb85c2/content/17.06.08-e8000595f5bded14ae56844f1134527a.jpeg)

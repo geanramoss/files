@@ -4,7 +4,7 @@ date: 2024-06-06 15:11:47 -03:00
 description: Lina Medina se tornou a mãe mais jovem da história aos 5 anos devido à puberdade precoce, dando à luz aos 7 meses de gravidez. Saiba mais sobre este chocante e raro caso médico.
 categories: wow
 tags: [wow]
-images: "https://i.imgur.com/E0SuQ9m.jpeg?crianca"
+image: "https://i.imgur.com/E0SuQ9m.jpeg?crianca"
 ---
 ![você sabia?](https://cdn.jsdelivr.net/gh/geanramos/files/img/voce-sabia.png)
 

@@ -2,7 +2,7 @@
 title: "Uma história que não aconteceu"
 date: "2024-01-10"
 tags: [memories]
-images: "https://ci3.googleusercontent.com/meips/ADKq_Nbn0ILrmuHc4IndneRmhaDgIZEF16gQ1E4KtaAL48CNqNN68copQMHiww6Q9sSDVnVsD5ErMU_og2_xBXJGur9bAdnf6qpl0svjsQZ4-Q2dvHDIYd5VFukkF7T-dISbTS9nqHUjfEp0_WteBL44pmfkFFPuUwqacrf6LpDQIgd_sQ_1RpSdmHjyR3ubXJyjCtpF59pj9VSkcOcvESVMsEzucorAWSfRRNOwinTA05xRMoOgyt2E8RBGdqp4LTRxvDyL5sWdrnzWo05BRn72oRLN09vIyM-RJb--hc5tYEg-t2260t_rg6DLuw=s0-d-e1-ft"
+image: "https://ci3.googleusercontent.com/meips/ADKq_Nbn0ILrmuHc4IndneRmhaDgIZEF16gQ1E4KtaAL48CNqNN68copQMHiww6Q9sSDVnVsD5ErMU_og2_xBXJGur9bAdnf6qpl0svjsQZ4-Q2dvHDIYd5VFukkF7T-dISbTS9nqHUjfEp0_WteBL44pmfkFFPuUwqacrf6LpDQIgd_sQ_1RpSdmHjyR3ubXJyjCtpF59pj9VSkcOcvESVMsEzucorAWSfRRNOwinTA05xRMoOgyt2E8RBGdqp4LTRxvDyL5sWdrnzWo05BRn72oRLN09vIyM-RJb--hc5tYEg-t2260t_rg6DLuw=s0-d-e1-ft"
 ---
 
 

@@ -4,7 +4,7 @@ date: 2024-07-18 08:10:47 -03:00
 description: "Filosofando: se a sua resposta for sim, pense nisso: quanto mais você vive, mais se descobre e mais sabedoria constrói. maravilhoso, não?"
 categories: ohayo
 tags: [ohayo]
-images: "https://img.freepik.com/vetores-premium/camiseta-infantil_1242587-22.jpg?w=740"
+image: "https://img.freepik.com/vetores-premium/camiseta-infantil_1242587-22.jpg?w=740"
 ---
 ![Filosofando: Medo da mudança](https://cdn.jsdelivr.net/gh/geanramos/files/img/filosofando.png)
 

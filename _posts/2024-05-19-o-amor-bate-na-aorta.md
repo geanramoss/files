@@ -2,7 +2,7 @@
 title: "O Amor Bate na Aorta"
 date: "2024-05-19T09:25:32-03:00"
 tags: [memories]
-images: "https://lh3.ggpht.com/-x7VwQDKoEAI/USGCabGsuiI/AAAAAAAAM64/r9l1vV0Anvs/tumblr_mhw8e4IAf41qzhfqvo1_500%25255B4%25255D.gif?imgmax=800"
+image: "https://lh3.ggpht.com/-x7VwQDKoEAI/USGCabGsuiI/AAAAAAAAM64/r9l1vV0Anvs/tumblr_mhw8e4IAf41qzhfqvo1_500%25255B4%25255D.gif?imgmax=800"
 ---
 
 <div class="embed-responsive">

@@ -4,7 +4,7 @@ date: 2024-06-20 09:00:11 -03:00
 description: Em um mundo onde a maioria tenta ser igual, já parou pra pensar que o que te faz diferente é também o que te faz interessante?
 categories: ohayo
 tags: [ohayo]
-images: "https://img.freepik.com/fotos-premium/dois-homens-de-pe-num-penhasco-um-dos-quais-e-vermelho_406811-38562.jpg"
+image: "https://img.freepik.com/fotos-premium/dois-homens-de-pe-num-penhasco-um-dos-quais-e-vermelho_406811-38562.jpg"
 ---
 ![perspectiva](https://cdn.jsdelivr.net/gh/geanramos/files/img/rising-tag.png)
 

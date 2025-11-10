@@ -4,7 +4,7 @@ date: 2025-01-19 05:01:00 -03:00
 description: "De um simples bom dia a um pedido de namoro espontâneo — a história de Beatriz e Eduardo é pura inspiração"
 categories: arquivo
 tags: [memories]
-images: "https://i.imgur.com/wwNpcSF.jpeg"
+image: "https://i.imgur.com/wwNpcSF.jpeg"
 ---
 
 ![Gean Ramos - Como Uma Mensagem no Instagram Transformou Tudo DE5oKhFR6ay.](https://i.imgur.com/wwNpcSF.jpeg)

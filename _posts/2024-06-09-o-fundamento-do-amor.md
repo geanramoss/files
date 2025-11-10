@@ -3,7 +3,7 @@ title: "Desvendando os Segredos do Amor Segundo Grandes Pensadores"
 date: "2024-06-09T11:50:00-03:00"
 description: De São Tomás de Aquino a Clarice Lispector, explore as diversas facetas do amor, desde suas definições poéticas até suas implicações neurológicas, destacando sua importância como força motriz na vida humana.
 tags: [memories]
-images: "https://substack-post-media.s3.amazonaws.com/public/images/21c5f000-93f0-45d2-9731-950e03cc8556_734x734.jpeg"
+image: "https://substack-post-media.s3.amazonaws.com/public/images/21c5f000-93f0-45d2-9731-950e03cc8556_734x734.jpeg"
 ---
 
 ![Desvendando os Segredos do Amor](https://substack-post-media.s3.amazonaws.com/public/images/21c5f000-93f0-45d2-9731-950e03cc8556_734x734.jpeg)

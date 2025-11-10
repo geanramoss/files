@@ -4,7 +4,7 @@ date: 2025-01-30 05:01:00 -03:00
 description: "Colisão entre avião e helicóptero: o que aconteceu em Washington? Leia agora! "
 categories: arquivo
 tags: [nota]
-images: "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2196684035.jpg?c=original&q=w_1280,c_fill"
+image: "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2196684035.jpg?c=original&q=w_1280,c_fill"
 ---
 
 Na noite de quarta-feira, Washington, DC, foi palco de um desastre aéreo de proporções catastróficas. 

@@ -4,7 +4,7 @@ date: 2024-12-15 08:03:47 -03:00
 description: "O amor não está nos grandes gestos, mas nos momentos diários e sinceros. Ele pode durar uma vida inteira, ou ficar para sempre em cada pequeno gesto"
 categories: memories
 tags: [memories]
-images: "https://image.tmdb.org/t/p/original/8gxMLiJS7Qu7ArTlyl1UzqUkywR.jpg"
+image: "https://image.tmdb.org/t/p/original/8gxMLiJS7Qu7ArTlyl1UzqUkywR.jpg"
 ---
 
 ![Antes do Amanhecer (1995)](https://cdn.jsdelivr.net/gh/geanramos/files/img/filosofando.png)

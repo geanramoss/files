@@ -4,7 +4,7 @@ date: 2025-01-19 06:01:00 -03:00
 description: "Cansado da mesmice? Descubra como desacelerar e encontrar significado no seu dia a dia."
 categories: arquivo
 tags: [memories]
-images: "https://png.pngtree.com/background/20230427/original/pngtree-an-elderly-man-reading-his-newspaper-in-a-train-station-picture-image_2497365.jpg"
+image: "https://png.pngtree.com/background/20230427/original/pngtree-an-elderly-man-reading-his-newspaper-in-a-train-station-picture-image_2497365.jpg"
 ---
 
 ![Gean Ramos - Desacelere: A vida acontece sem pressa.](https://png.pngtree.com/background/20230427/original/pngtree-an-elderly-man-reading-his-newspaper-in-a-train-station-picture-image_2497365.jpg)

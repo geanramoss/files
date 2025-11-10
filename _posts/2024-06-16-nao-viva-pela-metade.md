@@ -4,7 +4,7 @@ date: 2024-06-16 09:14:47 -03:00
 description: Viver com medo é viver pela metade. Aprenda a se jogar na vida e descubra que ela pode ser melhor que seu filme favorito.
 categories: memories
 tags: [memories]
-images: "https://image.tmdb.org/t/p/original/qpT6j1PvpkqYwPHvPpdy4XgtjYj.jpg"
+image: "https://image.tmdb.org/t/p/original/qpT6j1PvpkqYwPHvPpdy4XgtjYj.jpg"
 ---
 ![Viver com medo é viver pela metade](https://cdn.jsdelivr.net/gh/geanramos/files/img/na-gaveta.png)
 

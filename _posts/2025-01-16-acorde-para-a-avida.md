@@ -4,7 +4,7 @@ date: 2025-01-16 06:05:46 -03:00
 description: "Acorde para a felicidade: O que está fora de você não vai te ajudar, foco!"
 categories: ohayo
 tags: [ohayo]
-images: "https://geanramos.com/img/wake-up.jpg"
+image: "https://geanramos.com/img/wake-up.jpg"
 ---
 Se você pudesse apagar todas as coisas difíceis que te aconteceram, você faria isso? antes de responder, pense: quem você seria hoje sem essas coisas?
 

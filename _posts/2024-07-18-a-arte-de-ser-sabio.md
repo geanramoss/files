@@ -4,7 +4,7 @@ date: 2024-07-18 08:10:46 -03:00
 description: "Quando você pensa em sabedoria, o que te vem à mente?"
 categories: ohayo
 tags: [ohayo]
-images: "https://i.imgur.com/oHt7kfx.jpeg"
+image: "https://i.imgur.com/oHt7kfx.jpeg"
 ---
 ![Filosofando: Medo da mudança](https://cdn.jsdelivr.net/gh/geanramos/files/img/filosofando.png)
 

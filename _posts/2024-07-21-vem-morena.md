@@ -4,7 +4,7 @@ date: 2024-07-21 09:04:47 -03:00
 description: "Gabriela e Gustavo se encontraram no meio do caos e astrologia. Agora, eles dançam na cozinha. "
 categories: memories
 tags: [memories]
-images: "https://img.freepik.com/fotos-premium/imagens-do-dia-dos-namorados_1042123-686.jpg?w=740"
+image: "https://img.freepik.com/fotos-premium/imagens-do-dia-dos-namorados_1042123-686.jpg?w=740"
 ---
 
 ![Vem morena](https://substack-post-media.s3.amazonaws.com/public/images/6924e34f-0269-4b48-8a58-8ab233962d05_736x759.jpeg)

@@ -4,7 +4,7 @@ date: 2024-06-06 15:11:47 -03:00
 description: Você já sonhou em largar tudo e viajar pelo mundo, mas aquele salário gordo está te segurando? Ou talvez você trabalhe com sua irmã e se sinta sufocado com tanto amor fraternal em tempo integral? Bem-vindo ao clube!
 categories: ohayo
 tags: [ohayo]
-images: "https://i.pinimg.com/736x/cf/a6/4d/cfa64dfe957d54d3c4b5024f80cd98e9.jpg"
+image: "https://i.pinimg.com/736x/cf/a6/4d/cfa64dfe957d54d3c4b5024f80cd98e9.jpg"
 ---
 ![DESABAFO](https://cdn.jsdelivr.net/gh/geanramos/files/img/desabafo.png)
 

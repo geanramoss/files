@@ -2,7 +2,7 @@
 title: "O início perfeito"
 date: "2024-03-31"
 tags: [memories]
-images: ""
+image: ""
 ---
 
 **BASEADO EM UMA HISTÓRIA REAL**

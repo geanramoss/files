@@ -4,7 +4,7 @@ date: 2024-06-13 08:30:47 -03:00
 description: Não deixe seus sonhos apenas no papel! Aprenda a colocá-los em prática, Seja protagonista da sua vida!
 categories: ohayo
 tags: [ohayo]
-images: "https://img.freepik.com/fotos-gratis/mulher-embacada-de-tiro-medio-segurando-poste_23-2149321547.jpg"
+image: "https://img.freepik.com/fotos-gratis/mulher-embacada-de-tiro-medio-segurando-poste_23-2149321547.jpg"
 ---
 
 ![](https://cdn.jsdelivr.net/gh/geanramos/files/img/rising-tag.png)

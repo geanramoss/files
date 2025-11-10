@@ -4,7 +4,7 @@ date: 2014-04-17 06:01:00 -03:00
 description: "A fila anda: reflexões sobre a quantidade versus qualidade no amor."
 categories: arquivo
 tags: [arquivo]
-images: "https://geanramos.com/img/a-fila-anda.jpg"
+image: "https://geanramos.com/img/a-fila-anda.jpg"
 ---
 
 ![Gean Ramos - Quantidade vs Qualidade: Rumo à Verdadeira Intimidade.](https://geanramos.com/img/a-fila-anda.jpg)

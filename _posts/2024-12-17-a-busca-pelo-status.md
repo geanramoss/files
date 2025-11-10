@@ -4,7 +4,7 @@ date: 2024-12-17 06:10:47 -03:00
 description: "Satisfeito com o status que construiu? A luta por validação nas redes sociais pode custar muito mais do que imaginamos: nossa própria essência."
 categories: ohayo
 tags: [ohayo]
-images: "https://image.tmdb.org/t/p/original/gdavHcRqZYOaOprdGoMccgxMhQX.jpg"
+image: "https://image.tmdb.org/t/p/original/gdavHcRqZYOaOprdGoMccgxMhQX.jpg"
 ---
 **grão de areia**
 

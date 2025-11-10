@@ -4,7 +4,7 @@ date: 2024-06-16 09:15:47 -03:00
 description: De Hangzhou a Las Vegas, acompanhe a jornada romântica de Gabriela e Jacob, provando que o amor não conhece limites.
 categories: memories
 tags: [memories]
-images: "https://img.freepik.com/fotos-gratis/homem-mediano-tirando-fotos_23-2149204116.jpg"
+image: "https://img.freepik.com/fotos-gratis/homem-mediano-tirando-fotos_23-2149204116.jpg"
 ---
 
 ![Gabriela e Jacob enfrentaram a pandemia e a distância, cruzando continentes e culturas. Leia sobre essa emocionante história de amor real.](https://substack-post-media.s3.amazonaws.com/public/images/c93304c4-1d44-4e54-b930-704ed9e3aeb8_735x525.jpeg)

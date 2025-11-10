@@ -4,7 +4,7 @@ date: 2025-01-16 05:05:46 -03:00
 description: "Medo de Mudar? A Vida Só Tem Um Caminho: Pra Frente! O Medo de Fracassar Está Te Paralisando?"
 categories: ohayo
 tags: [ohayo]
-images: "https://geanramos.com/img/medo-de-mudar.jpg"
+image: "https://geanramos.com/img/medo-de-mudar.jpg"
 ---
 Se você pudesse apagar todas as coisas difíceis que te aconteceram, você faria isso? antes de responder, pense: quem você seria hoje sem essas coisas?
 

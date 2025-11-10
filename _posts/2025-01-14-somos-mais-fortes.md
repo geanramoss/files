@@ -4,7 +4,7 @@ date: 2025-01-14 05:01:00 -03:00
 description: "Como a dor nos ensina lições valiosas e nos torna mais fortes."
 categories: arquivo
 tags: [arquivo]
-images: "https://img.freepik.com/premium-photo/tired-with-closed-eyes-young-female-teacher-holding-book-around-head-sitting-table-with-school-tools-classroom_141793-114308.jpg"
+image: "https://img.freepik.com/premium-photo/tired-with-closed-eyes-young-female-teacher-holding-book-around-head-sitting-table-with-school-tools-classroom_141793-114308.jpg"
 ---
 **A Maratona das Experiências**
 

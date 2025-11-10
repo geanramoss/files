@@ -4,7 +4,7 @@ date: 2015-06-03 06:01:00 -03:00
 description: "Veja como transformar desafios em oportunidades com foco e determinação. Leia agora e inspire-se a enfrentar qualquer obstáculo!"
 categories: arquivo
 tags: [arquivo, arquivo]
-images: "https://geanramos.com/img/concorrencia-menor.jpg"
+image: "https://geanramos.com/img/concorrencia-menor.jpg"
 ---
 
 ![gean ramos - Módulo de Ignição](https://geanramos.com/img/concorrencia-menor.jpg)

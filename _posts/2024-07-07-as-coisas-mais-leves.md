@@ -4,7 +4,7 @@ date: 2024-07-07 13:14:47 -03:00
 description: "Descubra a leveza das pequenas lembranças que o vento não leva: um carinho, um estribilho antigo, o cheiro do café. A felicidade é simples e eterna"
 categories: memories
 tags: [memories]
-images: "https://img.freepik.com/fotos-premium/um-casal-a-beijar-se-no-quarto_1021941-42841.jpg?w=740"
+image: "https://img.freepik.com/fotos-premium/um-casal-a-beijar-se-no-quarto_1021941-42841.jpg?w=740"
 ---
 ![As coisas mais leves](https://img.freepik.com/fotos-premium/um-casal-a-beijar-se-no-quarto_1021941-42841.jpg?w=740)
 

@@ -4,7 +4,7 @@ date: 2024-06-10 12:09:47 -03:00
 description: Descubra o poder da autoconfiança. Por que se importar com a opinião dos outros quando você pode ser seu próprio juiz? Fortaleça sua mente, seja você mesmo!
 categories: ohayo
 tags: [ohayo]
-images: "https://i.imgur.com/sRjMjYE.jpeg"
+image: "https://i.imgur.com/sRjMjYE.jpeg"
 ---
 o minuto que você para de se importar com a opinião dos outros é o mesmo minuto que você consegue ser autêntico e fiel a si mesmo! essa é a melhor escolha que você pode fazer na vida.
 

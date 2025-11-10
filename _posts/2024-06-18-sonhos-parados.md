@@ -4,7 +4,7 @@ date: 2024-06-18 08:28:47 -03:00
 description: Encontre energia para agir e veja seus sonhos ganharem vida.
 categories: ohayo
 tags: [ohayo]
-images: "https://img.freepik.com/fotos-gratis/retrato-de-pessoas-com-autismo-aumentando-a-conscientizacao-sobre-disturbios-do-espectro-no-dia-do-autismo_23-2151346668.jpg"
+image: "https://img.freepik.com/fotos-gratis/retrato-de-pessoas-com-autismo-aumentando-a-conscientizacao-sobre-disturbios-do-espectro-no-dia-do-autismo_23-2151346668.jpg"
 ---
 
 ![desabafo](https://cdn.jsdelivr.net/gh/geanramos/files/img/desabafo.png)

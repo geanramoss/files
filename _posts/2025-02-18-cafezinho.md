@@ -3,7 +3,7 @@ title: "Pague-me um café"
 date: 2025-02-18 20:00:00 -03:00
 description: "Que tal dar uma força pra gente com um cafezinho via Pix? É super simples e rápido"
 tags: [Doação]
-images: "https://geanramos.com/img/cafezinho-social.jpg"
+image: "https://geanramos.com/img/cafezinho-social.jpg"
 ---
 
 ![Pague-me um café](https://geanramos.com/img/cafezinho-pix.jpg)

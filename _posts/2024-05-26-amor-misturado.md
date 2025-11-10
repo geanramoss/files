@@ -2,7 +2,7 @@
 title: "Amor misturado"
 date: "2024-05-26T12:16:00-03:00"
 tags: [memories]
-images: "./img/encontros-e-desencontros.gif"
+image: "./img/encontros-e-desencontros.gif"
 ---
 
 ![Encontros e Desencontros](./img/encontros-e-desencontros.gif)

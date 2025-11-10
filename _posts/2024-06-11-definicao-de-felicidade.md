@@ -4,7 +4,7 @@ date: 2024-06-11 08:10:47 -03:00
 description: Refleta sobre a felicidade. Qual o significado da palavra? Quais as diferenças entre alegria e felicidade? Como levar uma vida mais feliz?
 categories: ohayo
 tags: [ohayo]
-images: "https://img.freepik.com/fotos-gratis/close-up-mulher-segurando-bebe_23-2149071565.jpg"
+image: "https://img.freepik.com/fotos-gratis/close-up-mulher-segurando-bebe_23-2149071565.jpg"
 ---
 
 ![FILOSOFANDO](https://cdn.jsdelivr.net/gh/geanramos/files/img/filosofando.png)

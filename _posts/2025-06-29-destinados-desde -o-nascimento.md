@@ -4,7 +4,7 @@ title: "Destinados desde o nascimento? Da maternidade ao altar. 💙"
 date: 2025-06-29 05:00:00 -0300
 description: "Coincidência? Destino? Conheça a história real de Danielle e Matheus, um casal que nasceu pra se encontrar."
 tags: [ohayo]
-images: "./img/destinados.jpg"
+image: "./img/destinados.jpg"
 ---
 **💙 Amor à Prova de Reencarnação?**
 

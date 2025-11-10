@@ -2,7 +2,7 @@
 title: "Alegria do Reencontro"
 date: "2024-06-02T09:15:00-03:00"
 tags: [memories]
-images: "./img/alegria-do-reencontro.gif"
+image: "./img/alegria-do-reencontro.gif"
 ---
 
 ![Alegria do Reencontro](./img/alegria-do-reencontro.gif)

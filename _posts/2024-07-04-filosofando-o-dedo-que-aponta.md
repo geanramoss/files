@@ -4,7 +4,7 @@ date: 2024-07-04 13:14:47 -03:00
 description: "Reflexões sobre autoconhecimento: como o ato de julgar reflete nossas próprias questões não resolvidas."
 categories: memories
 tags: [memories]
-images: "https://img.freepik.com/fotos-premium/foto-de-uma-adolescente-a-apontar-para-algum-lugar_1235950-45755.jpg?w=826"
+image: "https://img.freepik.com/fotos-premium/foto-de-uma-adolescente-a-apontar-para-algum-lugar_1235950-45755.jpg?w=826"
 ---
 ![Viver com medo é viver pela metade](https://cdn.jsdelivr.net/gh/geanramos/files/img/filosofando.png)
 
