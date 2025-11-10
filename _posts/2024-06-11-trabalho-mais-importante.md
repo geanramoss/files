@@ -7,7 +7,7 @@ tags: [ohayo]
 image: "https://geanramos.com/img/Shutterstock_2084661583.jpg"
 ---
 
-![FILOSOFANDO](https://cdn.jsdelivr.net/gh/geanramos/files/img/filosofando.png)
+![FILOSOFANDO](https://geanramos.com/img/filosofando.png)
 
 **Liberdade Interior, A Chave para o Verdadeiro Sucesso**
 

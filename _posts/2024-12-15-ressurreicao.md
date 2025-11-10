@@ -7,7 +7,7 @@ tags: [memories]
 image: "https://geanramos.com/img/ressurreicao.jpg"
 ---
 
-![As razões que o amor desconhece](https://cdn.jsdelivr.net/gh/geanramos/files/img/filosofando.png)
+![As razões que o amor desconhece](https://geanramos.com/img/filosofando.png)
 
 ![As razões que o amor desconhece](https://geanramos.com/img/ressurreicao.jpg)
 

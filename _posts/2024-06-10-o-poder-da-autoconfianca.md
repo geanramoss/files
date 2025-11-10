@@ -8,7 +8,7 @@ image: "https://i.imgur.com/sRjMjYE.jpeg"
 ---
 o minuto que você para de se importar com a opinião dos outros é o mesmo minuto que você consegue ser autêntico e fiel a si mesmo! essa é a melhor escolha que você pode fazer na vida.
 
-![uma mente forte](https://cdn.jsdelivr.net/gh/geanramos/files/img/rising-tag.png)
+![uma mente forte](https://geanramos.com/img/rising-tag.png)
 
 ![autoconfiança](https://jrmcoaching.com.br/wp-content/uploads/2021/07/Como-desenvolver-autoconfianca-capa-1.jpg)
 

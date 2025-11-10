@@ -7,7 +7,7 @@ tags: [ohayo]
 image: "https://geanramos.com/img/8qJyfMnEBuYF8XnyY2sVNtOhd89.jpg"
 ---
 
-![**A Caminhada na Vida: Importam Mais os Desvios](https://cdn.jsdelivr.net/gh/geanramos/files/img/rising-tag.png)
+![**A Caminhada na Vida: Importam Mais os Desvios](https://geanramos.com/img/rising-tag.png)
 
 **Nem Sempre Importa pra Onde Você Está Indo**
 É, às vezes, é **como você caminha** que define o destino.

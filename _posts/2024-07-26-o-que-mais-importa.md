@@ -6,7 +6,7 @@ categories: ohayo
 tags: [ohayo]
 image: "https://media.beehiiv.com/uploads/asset/file/951a7412-40bd-47c3-aec8-ded5f65dc669/_-410.jpg"
 ---
-![Filosofando: O que mais importa?](https://cdn.jsdelivr.net/gh/geanramos/files/img/filosofando.png)
+![Filosofando: O que mais importa?](https://geanramos.com/img/filosofando.png)
 
 ![](https://media.beehiiv.com/uploads/asset/file/951a7412-40bd-47c3-aec8-ded5f65dc669/_-410.jpg)
 

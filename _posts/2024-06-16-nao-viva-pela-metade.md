@@ -6,7 +6,7 @@ categories: memories
 tags: [memories]
 image: "https://image.tmdb.org/t/p/original/qpT6j1PvpkqYwPHvPpdy4XgtjYj.jpg"
 ---
-![Viver com medo é viver pela metade](https://cdn.jsdelivr.net/gh/geanramos/files/img/na-gaveta.png)
+![Viver com medo é viver pela metade](https://geanramos.com/img/na-gaveta.png)
 
 ![GIF: Dirty Dancing](https://substack-post-media.s3.amazonaws.com/public/images/c43738e0-0ad8-4cb7-abb8-4726807ddba7_540x375.gif)
 

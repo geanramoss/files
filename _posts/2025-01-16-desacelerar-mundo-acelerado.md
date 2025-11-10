@@ -8,7 +8,7 @@ image: "https://geanramos.com/img/uma-multidao-de-pessoas-atravessa-uma-faixa-de
 ---
 Se você pudesse apagar todas as coisas difíceis que te aconteceram, você faria isso? antes de responder, pense: quem você seria hoje sem essas coisas?
 
-![](https://cdn.jsdelivr.net/gh/geanramos/files/img/rising-tag.png)
+![](https://geanramos.com/img/rising-tag.png)
 
 > **O tempo** 
 > todo mundo fala que o tempo voa, mas será que não somos nós que tentamos correr mais rápido que ele? talvez, seja hora de parar de

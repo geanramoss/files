@@ -7,7 +7,7 @@ tags: [ohayo]
 image: "https://geanramos.com/img/paixao-no-trabalho.jpg"
 ---
 
-![Trair ou respeitar meu casamento](https://cdn.jsdelivr.net/gh/geanramos/files/img/rising-tag.png)
+![Trair ou respeitar meu casamento](https://geanramos.com/img/rising-tag.png)
 
 
 ![Paixão no trabalho pode desestabilizar, mas é possível preservar seu casamento com autoconhecimento. Veja como se afastar da tentação.](https://geanramos.com/img/paixao-no-trabalho.jpg)

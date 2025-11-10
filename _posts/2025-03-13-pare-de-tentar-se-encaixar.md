@@ -10,7 +10,7 @@ image: "https://geanramos.com/img/side-view-carefree-man-enjoying-freedom-with-a
 
 Você já parou pra pensar **por que** se esforça tanto pra se encaixar, quando, na real, ser autêntico é o que realmente te faz crescer? Pois é, se você pode **expandir**, pra que se limitar?
 
-![maria vai com as outras](https://cdn.jsdelivr.net/gh/geanramos/files/img/rising-tag.png)
+![maria vai com as outras](https://geanramos.com/img/rising-tag.png)
 **Maria Vai Com as Outras? Eu Não!**
 ![Pare de tentar se encaixar e comece a se destacar](https://geanramos.com/img/side-view-carefree-man-enjoying-freedom-with-arms-outstretched_23-2148182869.jpg)
 > “Ser eu mesmo!”

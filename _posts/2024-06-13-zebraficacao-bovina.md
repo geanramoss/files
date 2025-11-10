@@ -6,7 +6,7 @@ categories: wow
 tags: [wow]
 image: "https://geanramos.com/img/zebraficacao-bovina.jpg"
 ---
-![você sabia?](https://cdn.jsdelivr.net/gh/geanramos/files/img/voce-sabia.png)
+![você sabia?](https://geanramos.com/img/voce-sabia.png)
 
 ![Britânicos e a Zebraficação Bovina](https://qph.cf2.quoracdn.net/main-qimg-eaa81d935d081cae537ddcf744c6a109)
 

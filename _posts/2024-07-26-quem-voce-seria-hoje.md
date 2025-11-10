@@ -8,7 +8,7 @@ image: "https://i.imgur.com/DBaHy1e.jpeg"
 ---
 Se você pudesse apagar todas as coisas difíceis que te aconteceram, você faria isso? antes de responder, pense: quem você seria hoje sem essas coisas?
 
-![](https://cdn.jsdelivr.net/gh/geanramos/files/img/rising-tag.png)
+![](https://geanramos.com/img/rising-tag.png)
 
 
 ![](https://media.beehiiv.com/uploads/asset/file/56798878-a14f-4f22-83e2-cc2b64e6017b/Untitled-114.png)

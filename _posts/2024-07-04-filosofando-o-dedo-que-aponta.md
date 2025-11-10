@@ -6,7 +6,7 @@ categories: memories
 tags: [memories]
 image: "https://img.freepik.com/fotos-premium/foto-de-uma-adolescente-a-apontar-para-algum-lugar_1235950-45755.jpg?w=826"
 ---
-![Viver com medo é viver pela metade](https://cdn.jsdelivr.net/gh/geanramos/files/img/filosofando.png)
+![Viver com medo é viver pela metade](https://geanramos.com/img/filosofando.png)
 
 
 > "Conhecer a sua própria escuridão é o melhor método para lidar com a escuridão dos outros" - **Carl Jung**

@@ -6,7 +6,7 @@ categories: ohayo
 tags: [ohayo]
 image: "https://www.wikihow.com/images/thumb/0/03/Handle-a-Crazy-Sister-in-Law-Step-4-Version-2.jpg/v4-728px-Handle-a-Crazy-Sister-in-Law-Step-4-Version-2.jpg.webp"
 ---
-![Filosofando: Medo da mudança](https://cdn.jsdelivr.net/gh/geanramos/files/img/desabafo.png)
+![Filosofando: Medo da mudança](https://geanramos.com/img/desabafo.png)
 
 
 > _“Eu tenho um projeto em mãos todo pronto e quero muito fazer isso. Mas não sei, não consigo começar. Me sufoca saber que tenho potencial,

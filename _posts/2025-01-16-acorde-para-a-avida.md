@@ -8,7 +8,7 @@ image: "https://geanramos.com/img/wake-up.jpg"
 ---
 Se você pudesse apagar todas as coisas difíceis que te aconteceram, você faria isso? antes de responder, pense: quem você seria hoje sem essas coisas?
 
-![](https://cdn.jsdelivr.net/gh/geanramos/files/img/filosofando.png)
+![](https://geanramos.com/img/filosofando.png)
 
 > _"Quem olha para fora, sonha; quem olha para dentro, desperta."_   - Carl Jung
 

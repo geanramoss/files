@@ -9,7 +9,7 @@ image: "https://img.freepik.com/fotos-premium/mulher-de-negocios-bonita-e-animad
 
 > Em um mundo onde a maioria tenta ser igual, já parou pra pensar que o que te faz diferente é também o que te faz interessante?
 
-![Filosofando](https://cdn.jsdelivr.net/gh/geanramos/files/img/filosofando.png)
+![Filosofando](https://geanramos.com/img/filosofando.png)
 
 > Todo mundo só descobre a verdade que consegue encarar - Jacques Lacan
 

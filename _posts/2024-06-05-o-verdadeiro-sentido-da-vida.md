@@ -8,7 +8,7 @@ image: "https://media.beehiiv.com/uploads/asset/file/ad195855-5e3d-40bb-aba3-afe
 ---
 
 
-![FILOSOFANDO](https://cdn.jsdelivr.net/gh/geanramos/files/img/filosofando.png)
+![FILOSOFANDO](https://geanramos.com/img/filosofando.png)
 
 
 ![](https://media.beehiiv.com/uploads/asset/file/ad195855-5e3d-40bb-aba3-afebd863cac3/_-208.jpg)

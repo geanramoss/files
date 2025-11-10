@@ -10,7 +10,7 @@ image: "https://image.tmdb.org/t/p/original/gdavHcRqZYOaOprdGoMccgxMhQX.jpg"
 
 > às vezes, é importante lembrar que você é como um grãozinho de areia nesse mundão. entende como isso pode ser maravilhoso?
 
-![grão de areia](https://cdn.jsdelivr.net/gh/geanramos/files/img/rising-tag.png)
+![grão de areia](https://geanramos.com/img/rising-tag.png)
 
 ![Status e redes sociais: um jogo sem fim que te esgota](https://geanramos.com/img/status-lobo-de-wall-street.gif)
 

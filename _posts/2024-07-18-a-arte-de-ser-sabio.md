@@ -6,7 +6,7 @@ categories: ohayo
 tags: [ohayo]
 image: "https://i.imgur.com/oHt7kfx.jpeg"
 ---
-![Filosofando: Medo da mudança](https://cdn.jsdelivr.net/gh/geanramos/files/img/filosofando.png)
+![Filosofando: Medo da mudança](https://geanramos.com/img/filosofando.png)
 
 
 ![Filosofando: A arte de ser sábio](https://img.freepik.com/fotos-premium/um-casal-de-idosos-aventureiros-a-surfar-juntos_189959-16516.jpg?w=826)

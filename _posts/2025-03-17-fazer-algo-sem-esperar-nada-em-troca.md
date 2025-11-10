@@ -6,7 +6,7 @@ description: "Quando foi a última vez que você fez algo só por gostar? Sem pr
 tags: [ohayo]
 image: "./img/dreaming-office.jpg"
 ---
-![Nem tudo precisa ser produtivo, só aproveite](https://cdn.jsdelivr.net/gh/geanramos/files/img/rising-tag.png)
+![Nem tudo precisa ser produtivo, só aproveite](https://geanramos.com/img/rising-tag.png)
 
 **✨ Nem tudo é sobre produtividade: o valor de fazer algo só porque gostamos ✨**
 
@@ -56,7 +56,7 @@ Apenas faça, por fazer. **Só por você.**
 **E depois me conta: como foi?** 💛
 
  
-![FILOSOFANDO: Um coração quente sempre importa](https://cdn.jsdelivr.net/gh/geanramos/files/img/filosofando.png)
+![FILOSOFANDO: Um coração quente sempre importa](https://geanramos.com/img/filosofando.png)
 
 > _"Não há no mundo sensação mais agradável que a de um coração, depois de um período de indiferença, voltar a se abrir para um novo objeto."_  
 > — Goethe  
@@ -79,7 +79,7 @@ A verdade é que a vida não se resume a metas, dinheiro ou sucesso. **No final,
 💛 Que hoje você permita ao seu coração **sentir de novo.**  
 
 
-![Desabafo de Peso](https://cdn.jsdelivr.net/gh/geanramos/files/img/desabafo.png)
+![Desabafo de Peso](https://geanramos.com/img/desabafo.png)
 
 > Como posso lidar com a frustração de ouvir que 'é tudo questão de
 > prioridade' quando minha realidade é tão desigual? Trabalho em

@@ -6,7 +6,7 @@ categories: ohayo
 tags: [ohayo]
 image: "https://img.freepik.com/fotos-premium/garota-de-vista-lateral-sendo-intimidada-na-escola_23-2149583170.jpg?w=740"
 ---
-![Filosofando: Medo da mudança](https://cdn.jsdelivr.net/gh/geanramos/files/img/desabafo.png)
+![Filosofando: Medo da mudança](https://geanramos.com/img/desabafo.png)
 
 ![](https://img.freepik.com/fotos-premium/garota-de-vista-lateral-sendo-intimidada-na-escola_23-2149583170.jpg?w=740)
 
