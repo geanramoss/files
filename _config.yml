@@ -1,6 +1,6 @@
 # Site
 name: 'Gean Ramos'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+description: 'O lugar onde as histórias ganham vida! Junte-se a nós para romances arrebatadores, reflexões profundas e muitos mais. 😊'
 logo: 'assets/images/logo.png'
 favicon: 'img/favicon.ico'
 baseurl: '/'
@@ -21,10 +21,10 @@ plugins:
 authors:
     geanramos:
       name:           Gean Ramos
-      site:           https://geanramos.com
+      site:           https://gean.me
       avatar:         assets/images/avatar1.jpg
-      bio:            "Hi, I am Gean, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          geanrammos@gmail.com
+      bio:            "O lugar onde as histórias ganham vida! Junte-se a nós para romances arrebatadores, reflexões profundas e muitos mais. 😊"
+      email:          geanramos@gmail.com
       twitter:        https://twitter.com/geanramos
 
     jane:
