@@ -4,7 +4,7 @@ description: 'O lugar onde as histórias ganham vida! Junte-se a nós para roman
 logo: 'assets/images/logo.png'
 favicon: 'img/favicon.ico'
 baseurl: '/'
-cdnimg: "https://i1.wp.com/geanramos.u1m.com.br"
+cdnimg: "https://cdn.jsdelivr.net/gh/geanramoss/files/"
 disqus: 'geanramos'
 email: 'blog@geanramos.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
