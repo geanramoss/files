@@ -70,6 +70,6 @@ Um amor que faça a pessoa mais cética do mundo cogitar a existência de destin
 
 Grata pelo que aconteceu no último ano — e esperando ansiosamente por tudo que o futuro reserva —, a Marina finaliza com uma frase que já leu aqui no the stories:  _**“não existe nada melhor do que ser quem se é e amar quem se quer”.**_
 
-![@marinabfaria e @duda_hellmeister](./img/marinabfaria-e-duda_hellmeister.jpg)
+![@marinabfaria e @duda_hellmeister]({{ site.cdnimg }}/img/marinabfaria-e-duda_hellmeister.jpg)
 
-Confira a declaração que  Marina fez a Duda? [Aqui.](./img/marinabfaria-e-duda_hellmeister-2.png)
+Confira a declaração que  Marina fez a Duda? [Aqui.]({{ site.cdnimg }}/img/marinabfaria-e-duda_hellmeister-2.png)

@@ -7,7 +7,7 @@ tags: [arquivo, arquivo]
 image: "./img/concorrencia-menor.jpg"
 ---
 
-![gean ramos - Módulo de Ignição](./img/concorrencia-menor.jpg)
+![gean ramos - Módulo de Ignição]({{ site.cdnimg }}/img/concorrencia-menor.jpg)
 
 Eu sou um péssimo perdedor. Culpa da minha criação. Nada de ser mimado e fazer birra quando perco, mas aprendi a fazer tudo com muita vontade. E quando você é tão intenso, espera que seu árduo trabalho resulte em nada menos que a vitória.
 

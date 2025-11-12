@@ -7,7 +7,7 @@ tags: [ohayo]
 image: "./img/marina-pumar.jpg"
 ---
 
-![Epidemia de Solidão: O Poder Transformador da Amizade](./img/marina-pumar-2.jpg)
+![Epidemia de Solidão: O Poder Transformador da Amizade]({{ site.cdnimg }}/img/marina-pumar-2.jpg)
 
 Eu não sei se você já ouviu falar sobre isso, mas recentemente fizeram uma pesquisa em 7 países (incluindo o Brasil) para investigar a chamada  **"Epidemia de Solidão".**
 

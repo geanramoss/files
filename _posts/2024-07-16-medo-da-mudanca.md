@@ -6,7 +6,7 @@ categories: ohayo
 tags: [ohayo]
 image: "https://64.media.tumblr.com/c0f3dfbeb875556fc5e99623a7621a0b/01410b5103c0e551-d9/s640x960/afc284445b5b058949eb2c02855f42f814dc467a.jpg"
 ---
-![Filosofando: Medo da mudança](./img/filosofando.png)
+![Filosofando: Medo da mudança]({{ site.cdnimg }}/img/filosofando.png)
 
 
 ![](https://media.beehiiv.com/uploads/asset/file/adc004b9-968d-4e5c-8648-77711f337e47/Untitled-113.png)

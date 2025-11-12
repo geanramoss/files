@@ -6,7 +6,7 @@ categories: ohayo
 tags: [ohayo]
 image: "https://img.freepik.com/vetores-premium/camiseta-infantil_1242587-22.jpg?w=740"
 ---
-![Filosofando: Medo da mudança](./img/filosofando.png)
+![Filosofando: Medo da mudança]({{ site.cdnimg }}/img/filosofando.png)
 
 ![](https://www.shutterstock.com/image-vector/different-ages-people-evolution-residence-600nw-761261983.jpg)
 

@@ -7,7 +7,7 @@ tags: [memories]
 image: "./img/menina-crianca-cheirando-uma-flor-de-peonia_561751-101.jpg"
 ---
 
-![Gean Ramos - Plante Sem Colher: Apreciando a Jornada da Vida](./img/menina-crianca-cheirando-uma-flor-de-peonia_561751-101.jpg)
+![Gean Ramos - Plante Sem Colher: Apreciando a Jornada da Vida]({{ site.cdnimg }}/img/menina-crianca-cheirando-uma-flor-de-peonia_561751-101.jpg)
 
 > Ouça, Virgínia, é preciso amar o inútil. Criar pombos sem pensar em comê-los, plantar roseiras sem pensar em colher as rosas, escrever sem pensar em publicar, fazer coisas assim, sem esperar nada em troca. A distância mais curta entre dois pontos pode ser a linha reta, mas é nos caminhos curvos que se encontram as melhores coisas.
 

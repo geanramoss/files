@@ -7,7 +7,7 @@ tags: [arquivo, arquivo]
 image: "./img/amor-proprio-e-relacionamento.jpg"
 ---
 
-![gean ramos - Amor Próprio e Relacionamento: Um Guia de Sobrevivência](./img/amor-proprio-e-relacionamento.jpg)
+![gean ramos - Amor Próprio e Relacionamento: Um Guia de Sobrevivência]({{ site.cdnimg }}/img/amor-proprio-e-relacionamento.jpg)
 
 > Querida, precisamos falar sobre **relacionamentos doentes**. 
 

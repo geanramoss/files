@@ -6,7 +6,7 @@ categories: ohayo
 tags: [ohayo]
 image: "https://i.pinimg.com/736x/cf/a6/4d/cfa64dfe957d54d3c4b5024f80cd98e9.jpg"
 ---
-![DESABAFO](./img/desabafo.png)
+![DESABAFO]({{ site.cdnimg }}/img/desabafo.png)
 
 ![Você já sonhou em largar tudo e viajar pelo mundo](https://i.pinimg.com/736x/cf/a6/4d/cfa64dfe957d54d3c4b5024f80cd98e9.jpg)
 

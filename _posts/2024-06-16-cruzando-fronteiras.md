@@ -87,5 +87,5 @@ Agora, não precisam mais se preocupar com vistos e fronteiras, mas ainda ficam 
 
 
 
-**Está duvidando que essa [história de cinema aconteceu](./img/gabi-e-o-jake.png) na vida real?**
-  [Clique aqui pra conhecer a Gabi e o Jake](./img/gabi-e-o-jake.jpg). 🧸
+**Está duvidando que essa [história de cinema aconteceu]({{ site.cdnimg }}/img/gabi-e-o-jake.png) na vida real?**
+  [Clique aqui pra conhecer a Gabi e o Jake]({{ site.cdnimg }}/img/gabi-e-o-jake.jpg). 🧸

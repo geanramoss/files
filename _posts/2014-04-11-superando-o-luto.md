@@ -7,7 +7,7 @@ tags: [arquivo]
 image: "./img/coracao-partido.jpg"
 ---
 
-![Gean Ramos - A Vida e a Perda: Enfrentando o Luto.](./img/coracao-partido.jpg)
+![Gean Ramos - A Vida e a Perda: Enfrentando o Luto.]({{ site.cdnimg }}/img/coracao-partido.jpg)
 
 **Luto: O Presente Que Não Queremos!**
 

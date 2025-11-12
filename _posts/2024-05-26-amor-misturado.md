@@ -5,7 +5,7 @@ tags: [memories]
 image: "./img/encontros-e-desencontros.gif"
 ---
 
-![Encontros e Desencontros](./img/encontros-e-desencontros.gif)
+![Encontros e Desencontros]({{ site.cdnimg }}/img/encontros-e-desencontros.gif)
 
 
 _Eu poderia até dizer que quando estou com você, é apenas em você que penso, que é puro e sem mistura o que sinto._  

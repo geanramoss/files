@@ -7,9 +7,9 @@ tags: [memories]
 image: "./img/te-amo-pai.jpg"
 ---
 
-![As razões que o amor desconhece](./img/filosofando.png)
+![As razões que o amor desconhece]({{ site.cdnimg }}/img/filosofando.png)
 
-![As razões que o amor desconhece](./img/te-amo-pai.jpg)
+![As razões que o amor desconhece]({{ site.cdnimg }}/img/te-amo-pai.jpg)
 
 A relação da Kaísa com o seu pai, Martins, sempre foi meio protocolar. Ele era muito focado no trabalho, viajava bastante, e se preocupava em manter a casa em ordem.
 

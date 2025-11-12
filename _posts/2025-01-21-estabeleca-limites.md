@@ -7,7 +7,7 @@ tags: [ohayo]
 image: "./img/aged-couple-pensioners-talking-with-employee_1398-4339.jpg"
 ---
 
-![Colocando Limites: A Chave para Crescer](./img/desabafo.png)
+![Colocando Limites: A Chave para Crescer]({{ site.cdnimg }}/img/desabafo.png)
 
 ### Colocando Limites: A Chave para Crescer
 
@@ -27,7 +27,7 @@ Uma conversa respeitosa e sincera pode ser suficiente para fazer isso e deixar c
 
 **ps:** No dia que lhe sobrar esse dinheiro, genuinamente, faça questão de que eles sejam os primeiros a receberem a ajuda que for necessária. Eles são seus pais, isso com certeza retornará de várias formas boas para você.
 
-![Encontre a Felicidade no Presente](./img/desabafo.png)
+![Encontre a Felicidade no Presente]({{ site.cdnimg }}/img/desabafo.png)
 
 
 

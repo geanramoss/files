@@ -7,7 +7,7 @@ tags: [ohayo]
 image: "https://i.pinimg.com/736x/d3/2c/67/d32c6758736edec5964b880bb04200c7.jpg"
 ---
 
-![FILOSOFANDO](./img/filosofando.png)
+![FILOSOFANDO]({{ site.cdnimg }}/img/filosofando.png)
 
 ![mulher branca, sentada na janela pensando e olando para rua.](https://i.pinimg.com/736x/d3/2c/67/d32c6758736edec5964b880bb04200c7.jpg)
 

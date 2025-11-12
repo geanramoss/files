@@ -5,7 +5,7 @@ tags: [memories]
 image: "./img/alegria-do-reencontro.gif"
 ---
 
-![Alegria do Reencontro](./img/alegria-do-reencontro.gif)
+![Alegria do Reencontro]({{ site.cdnimg }}/img/alegria-do-reencontro.gif)
 
 > _“Amor é isto: a dialética entre a alegria do encontro e a dor da separação. De alguma forma, a gota de chuva aparecerá de novo, o vento
 > permitirá que velejemos de novo, mar afora. Morte e ressurreição. Na

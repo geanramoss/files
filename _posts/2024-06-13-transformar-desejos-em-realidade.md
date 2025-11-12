@@ -7,7 +7,7 @@ tags: [ohayo]
 image: "https://img.freepik.com/fotos-gratis/mulher-embacada-de-tiro-medio-segurando-poste_23-2149321547.jpg"
 ---
 
-![](./img/rising-tag.png)
+![]({{ site.cdnimg }}/img/rising-tag.png)
 
 ![](https://img.freepik.com/fotos-gratis/mulher-embacada-de-tiro-medio-segurando-poste_23-2149321547.jpg)
 

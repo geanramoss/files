@@ -7,7 +7,7 @@ tags: [memories]
 
 **BASEADO EM UMA HISTÓRIA REAL**
 
-![Mil Acasos](./img/mil-acasos.jpg)
+![Mil Acasos]({{ site.cdnimg }}/img/mil-acasos.jpg)
 
 A  **Helena**  e o **Gabriel** se conheceram em 2022. Eles estavam morando em Portugal, saindo de segunda a segunda, conhecendo pessoas de países diferentes, e sendo mais livres do que nunca.
 

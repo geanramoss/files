@@ -7,7 +7,7 @@ tags: [ohayo]
 image: "./img/Shutterstock_2084661583.jpg"
 ---
 
-![FILOSOFANDO](./img/filosofando.png)
+![FILOSOFANDO]({{ site.cdnimg }}/img/filosofando.png)
 
 **Liberdade Interior, A Chave para o Verdadeiro Sucesso**
 
@@ -31,7 +31,7 @@ Abaixo, listo algumas perguntas que acredito serem essenciais para nos fazermos 
 
 Assim como Arthur, que foi criado longe do trono e teve que enfrentar grandes adversidades antes de reivindicar seu lugar como rei, cada um de nós tem uma jornada única, repleta de desafios.
 
-![](./img/img_posts_reflexo_mente.jpg)
+![]({{ site.cdnimg }}/img/img_posts_reflexo_mente.jpg)
 
 **Retorne a si mesmo**
 

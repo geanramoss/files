@@ -7,7 +7,7 @@ tags: [ohayo]
 image: "./img/8qJyfMnEBuYF8XnyY2sVNtOhd89.jpg"
 ---
 
-![**A Caminhada na Vida: Importam Mais os Desvios](./img/rising-tag.png)
+![**A Caminhada na Vida: Importam Mais os Desvios]({{ site.cdnimg }}/img/rising-tag.png)
 
 **Nem Sempre Importa pra Onde Você Está Indo**
 É, às vezes, é **como você caminha** que define o destino.

@@ -7,10 +7,10 @@ tags: [ohayo]
 image: "./img/paixao-no-trabalho.jpg"
 ---
 
-![Trair ou respeitar meu casamento](./img/rising-tag.png)
+![Trair ou respeitar meu casamento]({{ site.cdnimg }}/img/rising-tag.png)
 
 
-![Paixão no trabalho pode desestabilizar, mas é possível preservar seu casamento com autoconhecimento. Veja como se afastar da tentação.](./img/paixao-no-trabalho.jpg)
+![Paixão no trabalho pode desestabilizar, mas é possível preservar seu casamento com autoconhecimento. Veja como se afastar da tentação.]({{ site.cdnimg }}/img/paixao-no-trabalho.jpg)
 
 > _Sou casada e acho que estou apaixonada pelo meu colega de trabalho que também é casado, e acho que ele também sente a mesma coisa. Porém
 > eu amo demais o meu marido e não quero trair ele. Mas esse pensamento

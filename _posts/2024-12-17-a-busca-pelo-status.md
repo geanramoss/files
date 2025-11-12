@@ -10,9 +10,9 @@ image: "https://image.tmdb.org/t/p/original/gdavHcRqZYOaOprdGoMccgxMhQX.jpg"
 
 > às vezes, é importante lembrar que você é como um grãozinho de areia nesse mundão. entende como isso pode ser maravilhoso?
 
-![grão de areia](./img/rising-tag.png)
+![grão de areia]({{ site.cdnimg }}/img/rising-tag.png)
 
-![Status e redes sociais: um jogo sem fim que te esgota](./img/status-lobo-de-wall-street.gif)
+![Status e redes sociais: um jogo sem fim que te esgota]({{ site.cdnimg }}/img/status-lobo-de-wall-street.gif)
 
 **É curioso como o sucesso material e o status podem levar alguém, ao mesmo tempo, à ascensão e à queda.**
 

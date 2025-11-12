@@ -7,7 +7,7 @@ tags: [ohayo]
 image: "./img/ylEXht4BndyodoWM5YwEvWtWmHE.jpg"
 ---
 
-![gean ramos - Descubra onde firmar seus pés para viver de forma autêntica.](./img/ylEXht4BndyodoWM5YwEvWtWmHE.jpg)
+![gean ramos - Descubra onde firmar seus pés para viver de forma autêntica.]({{ site.cdnimg }}/img/ylEXht4BndyodoWM5YwEvWtWmHE.jpg)
 
 **Onde Estão Seus Pés?**
 

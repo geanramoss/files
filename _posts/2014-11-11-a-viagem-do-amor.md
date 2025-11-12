@@ -7,7 +7,7 @@ tags: [arquivo, arquivo]
 image: "./img/amor-e-uma-viagem.jpg"
 ---
 
-![Gean Ramos - Amor é uma viagem: olhos no presente.](./img/amor-e-uma-viagem.jpg)
+![Gean Ramos - Amor é uma viagem: olhos no presente.]({{ site.cdnimg }}/img/amor-e-uma-viagem.jpg)
 
 **Você Já Reparou Como Não Sabemos Lidar com o Tempo?**
 

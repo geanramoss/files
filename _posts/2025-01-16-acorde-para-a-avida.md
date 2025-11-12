@@ -8,11 +8,11 @@ image: "./img/wake-up.jpg"
 ---
 Se você pudesse apagar todas as coisas difíceis que te aconteceram, você faria isso? antes de responder, pense: quem você seria hoje sem essas coisas?
 
-![](./img/filosofando.png)
+![]({{ site.cdnimg }}/img/filosofando.png)
 
 > _"Quem olha para fora, sonha; quem olha para dentro, desperta."_   - Carl Jung
 
-![gean ramos - Acorde](./img/wake-up.jpg)
+![gean ramos - Acorde]({{ site.cdnimg }}/img/wake-up.jpg)
 
 A gente vive em um mundo onde o barulho, as imagens e as oportunidades não param. Parece que não tem descanso, né?
 

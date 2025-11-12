@@ -7,7 +7,7 @@ tags: [arquivo]
 image: "./img/arroz-para-dois.jpg"
 ---
 
-![Gean Ramos - Arroz pra Dois: A Nova Jornada.](./img/arroz-para-dois.jpg)
+![Gean Ramos - Arroz pra Dois: A Nova Jornada.]({{ site.cdnimg }}/img/arroz-para-dois.jpg)
 
 > Nenhum Homem é uma Ilha... Já Ouviu Isso?
 

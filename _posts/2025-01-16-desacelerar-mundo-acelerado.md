@@ -8,7 +8,7 @@ image: "./img/uma-multidao-de-pessoas-atravessa-uma-faixa-de-pedestres-em-uma-ci
 ---
 Se você pudesse apagar todas as coisas difíceis que te aconteceram, você faria isso? antes de responder, pense: quem você seria hoje sem essas coisas?
 
-![](./img/rising-tag.png)
+![]({{ site.cdnimg }}/img/rising-tag.png)
 
 > **O tempo** 
 > todo mundo fala que o tempo voa, mas será que não somos nós que tentamos correr mais rápido que ele? talvez, seja hora de parar de

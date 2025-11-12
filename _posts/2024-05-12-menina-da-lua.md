@@ -5,7 +5,7 @@ tags: [memories]
 image: "./img/menina-da-lua.jpg"
 ---
 
-![Menina da Lua](./img/menina-da-lua.jpg)
+![Menina da Lua]({{ site.cdnimg }}/img/menina-da-lua.jpg)
 
 > Leve na lembrança A singela melodia que eu fiz Pra ti, oh, bem amada
 > Princesa, olhos d'água Menina da lua

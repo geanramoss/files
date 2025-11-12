@@ -5,7 +5,7 @@ tags: [memories]
 image: "./img/cada-pessoa-e-um-oceano-inteiro.jpg"
 ---
 
-![Cada pessoa é um oceano inteiro](./img/cada-pessoa-e-um-oceano-inteiro.jpg)
+![Cada pessoa é um oceano inteiro]({{ site.cdnimg }}/img/cada-pessoa-e-um-oceano-inteiro.jpg)
 
 Em julho de 2023, a Mônica conheceu o João. Segundo ela,  **os dois são mergulhadores.**  Ele como profissão, ela como estilo de vida.
 

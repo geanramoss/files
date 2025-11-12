@@ -7,7 +7,7 @@ tags: [ohayo]
 image: "./img/sad-thoughtful-anxious-woman-listening-music-using-smartphone_482257-19436.jpg"
 ---
 
-![Gean Ramos - Transforme desafios em oportunidades e veja como a zona de conforto pode ser sua aliada!](./img/rising-tag.png)
+![Gean Ramos - Transforme desafios em oportunidades e veja como a zona de conforto pode ser sua aliada!]({{ site.cdnimg }}/img/rising-tag.png)
 ### Ampliando a Zona de Conforto: Um Passo de Cada Vez
 
 Já parou para pensar que o que parece um bicho de sete cabeças hoje pode ser apenas mais um passinho amanhã? Acredite, tudo é questão de prática.

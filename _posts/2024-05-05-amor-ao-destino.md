@@ -5,7 +5,7 @@ description: "amar o destino é enxergar a vida como ela é — e não como a ge
 tags: [memories]
 ---
 
-![amor ao destino](./img/amor-ao-destino.jpg)
+![amor ao destino]({{ site.cdnimg }}/img/amor-ao-destino.jpg)
 
 _“Minha fórmula para a grandeza em um ser humano é amor fati: que ninguém queira que nada seja diferente, nem para a frente, nem para trás, nem para toda a eternidade. Não basta suportar o necessário, escondê-lo ainda menos — todo idealismo é mentira diante do necessário — mas amá-lo.”_
 

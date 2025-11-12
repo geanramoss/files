@@ -7,7 +7,7 @@ tags: [arquivo]
 image: "./img/a-fila-anda.jpg"
 ---
 
-![Gean Ramos - Quantidade vs Qualidade: Rumo à Verdadeira Intimidade.](./img/a-fila-anda.jpg)
+![Gean Ramos - Quantidade vs Qualidade: Rumo à Verdadeira Intimidade.]({{ site.cdnimg }}/img/a-fila-anda.jpg)
 
 **A Famosa Citação: “A Fila Anda”!**
 

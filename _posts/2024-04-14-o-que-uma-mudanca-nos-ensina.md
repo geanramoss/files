@@ -33,7 +33,7 @@ Tá, mas a gente bem sabe que nenhuma transformação acontece da noite pro dia.
 
 Falando em vazio, em um episódio do podcast  [“Para dar nome às coisas”](https://open.spotify.com/show/7g6BfZvLNQjrj68MNXyDqf), a Natália Sousa comentou que, quando ela era criança, a sua mãe vivia trocando os móveis da sua casa de lugar. e lembre que a minha fazia mesma coisa.
 
-![antes de qualquer mudança, vem um vazio](./img/muda-se-a-vida.jpg)
+![antes de qualquer mudança, vem um vazio]({{ site.cdnimg }}/img/muda-se-a-vida.jpg)
 
 -   E como elas não esbanjavam dinheiro, quando um sofá saía da sala, era preciso esperar até comprar um novo.
     

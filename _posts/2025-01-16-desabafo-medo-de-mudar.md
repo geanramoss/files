@@ -8,11 +8,11 @@ image: "./img/medo-de-mudar.jpg"
 ---
 Se você pudesse apagar todas as coisas difíceis que te aconteceram, você faria isso? antes de responder, pense: quem você seria hoje sem essas coisas?
 
-![](./img/desabafo.png)
+![]({{ site.cdnimg }}/img/desabafo.png)
 
 > _"Quem olha para fora, sonha; quem olha para dentro, desperta."_   - Carl Jung
 
-![gean ramos - O Medo de Fracassar Está Te Paralisando?](./img/medo-de-mudar.jpg)
+![gean ramos - O Medo de Fracassar Está Te Paralisando?]({{ site.cdnimg }}/img/medo-de-mudar.jpg)
 
 > Quero mudar de cidade e começar uma vida nova no ano que vem, mas...
 > ah, o medo de fracassar! E se der errado e eu tiver que voltar pra

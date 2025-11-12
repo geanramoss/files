@@ -6,7 +6,7 @@ categories: ohayo
 tags: [ohayo]
 image: "https://img.freepik.com/fotos-premium/dois-homens-de-pe-num-penhasco-um-dos-quais-e-vermelho_406811-38562.jpg"
 ---
-![perspectiva](./img/rising-tag.png)
+![perspectiva]({{ site.cdnimg }}/img/rising-tag.png)
 
 > Em um Mundo de Clones, Seja Você Mesmo!
 

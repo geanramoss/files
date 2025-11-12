@@ -7,7 +7,7 @@ tags: [memories]
 image: "https://image.tmdb.org/t/p/original/8gxMLiJS7Qu7ArTlyl1UzqUkywR.jpg"
 ---
 
-![Antes do Amanhecer (1995)](./img/filosofando.png)
+![Antes do Amanhecer (1995)]({{ site.cdnimg }}/img/filosofando.png)
 
 ![Antes do Amanhecer (1995)](https://image.tmdb.org/t/p/original/8gxMLiJS7Qu7ArTlyl1UzqUkywR.jpg)
 

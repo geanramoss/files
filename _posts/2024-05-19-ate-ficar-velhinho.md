@@ -5,7 +5,7 @@ tags: [memories]
 image: "./img/ate-ficar-velhinho.jpg"
 ---
 
-![Até ficar velhinho](./img/ate-ficar-velhinho.jpg)
+![Até ficar velhinho]({{ site.cdnimg }}/img/ate-ficar-velhinho.jpg)
 
 O  **Samuel** fala "amor” — leia com sotaque do interior de minas —, e a  **Lauri** fala “amor” — com sotaque de Varginha, que parece com o interior de São Paulo.
 
@@ -58,7 +58,7 @@ Amanhã, eles completam  **um ano de casados**, e a cada dia que passa, o Samuel
 **Ficou curioso pra conhecer o Samuel e a Lauri?**  
 <a href="./img/samuel-e-lauri.jpg">  <img src="./img/samuel-e-lauri.jpg" alt="Até ficar velhinho">  </a>
 
-Como bom “último romântico”, ele também fez  uma declaração pra ela. [Veja Aqui!](./img/declaracao-samuel-e-lauri.png).  
+Como bom “último romântico”, ele também fez  uma declaração pra ela. [Veja Aqui!]({{ site.cdnimg }}/img/declaracao-samuel-e-lauri.png).  
 
 
 ### UPDATE

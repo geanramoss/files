@@ -49,7 +49,7 @@ Agora, a parte que faz o coração apertar. Na próxima sexta-feira, 18 de julho
 
 Ele escreveu uma carta aberta, um pedido de desculpas, uma declaração de amor tardia. Prepara o coração e lê o que ele desabafou:
 
-![Imagem: VSCO]({{ site.cdnimg }}/660cd1e9-2d37-41ff-be1d-e742145690b8_736x981.jpg)
+![Imagem: VSCO]({{ site.cdnimg }}/img/660cd1e9-2d37-41ff-be1d-e742145690b8_736x981.jpg)
 > 
 > Em alguma história, ele lembra de ter lido que “o preço de amar muito alguém talvez seja nunca mais conseguir amar ninguém.” E, com sinceridade, tem medo que isso aconteça com ele. Talvez o medo seja tanto que ele até tenha se acostumado com a ideia.
 > 

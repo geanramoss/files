@@ -6,7 +6,7 @@ categories: memories
 tags: [memories]
 image: "https://img.freepik.com/fotos-gratis/jovem-mulher-beijando-o-namorado-em-casa_23-2147873731.jpg"
 ---
-![Tempo de Mudança: Construindo um Futuro Brilhante](./img/desabafo.png)
+![Tempo de Mudança: Construindo um Futuro Brilhante]({{ site.cdnimg }}/img/desabafo.png)
 
 
 > "É normal ser a única do meu grupo de 30 anos que se sente como se

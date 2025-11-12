@@ -7,7 +7,7 @@ tags: [ohayo]
 image: "https://img.freepik.com/fotos-gratis/retrato-de-pessoas-com-autismo-aumentando-a-conscientizacao-sobre-disturbios-do-espectro-no-dia-do-autismo_23-2151346668.jpg"
 ---
 
-![desabafo](./img/desabafo.png)
+![desabafo]({{ site.cdnimg }}/img/desabafo.png)
 
 > "Me sinto perdida, vendo todos conquistarem os seus sonhos e eu
 > permaneço parada, imóvel e sem forças pra ir atrás do que tanto quero."

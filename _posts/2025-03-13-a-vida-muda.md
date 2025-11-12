@@ -8,7 +8,7 @@ image: "./img/young-couple-standing-against-pink-background_1048944-12628846.jpg
 
  **FILOSOFANDO COM UM POUCO DE DRAMA E MUITO CAFÉ**
 
-![você mudou? Eu espero que sim!](./img/young-couple-standing-against-pink-background_1048944-12628846.jpg)
+![você mudou? Eu espero que sim!]({{ site.cdnimg }}/img/young-couple-standing-against-pink-background_1048944-12628846.jpg)
 
 **“Você mudou.”**  
 **“Espero que sim.”**

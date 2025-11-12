@@ -7,7 +7,7 @@ tags: [ohayo]
 image: "https://img.freepik.com/free-photo/man-plastic-bag-touching-it-with-his-palm_181624-16234.jpg"
 ---
 
-![Aprender com a dor e confiar no futuro: lições de vida.](./img/desabafo.png)
+![Aprender com a dor e confiar no futuro: lições de vida.]({{ site.cdnimg }}/img/desabafo.png)
 
 **Sobre o Luto: Quando a Tristeza Resolve se Instalar**
 

@@ -7,7 +7,7 @@ tags: [ohayo]
 image: "./img/caucasian-female-falling-asleep-after-eating-junkfood-living-room-late-night_482257-9661.jpg"
 ---
 
-![gean ramos - Mude sua Consciência, Mude sua Vida!](./img/filosofando.png)
+![gean ramos - Mude sua Consciência, Mude sua Vida!]({{ site.cdnimg }}/img/filosofando.png)
 
 
 ![Gean Ramos - Descubra a Magia da Mudança](https://i1.wp.com/img.freepik.com/free-photo/caucasian-female-falling-asleep-after-eating-junkfood-living-room-late-night_482257-9661.jpg?resize=720,405)

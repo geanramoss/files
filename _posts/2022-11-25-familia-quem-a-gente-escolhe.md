@@ -6,7 +6,7 @@ tags: [memories]
 image: "./img/silvio-santos-com-a-mulher-filhas-neto.jpg?resize=800,450"
 ---
 
-![Natal da família de Patricia Abravanel (Foto: Reprodução Instagram @patriciaabravanel)](./img/silvio-santos-com-a-mulher-filhas-neto.jpg?resize=800,450)
+![Natal da família de Patricia Abravanel (Foto: Reprodução Instagram @patriciaabravanel)]({{ site.cdnimg }}/img/silvio-santos-com-a-mulher-filhas-neto.jpg?resize=800,450)
 
 **Ricardo** e **Tereza** casaram-se quando ainda eram muito jovens. **Tereza** tinha uma **família enorme** — dessas de propaganda de margarina —, que faz questão de reunir e **agregar até quem não é de sangue**.
 

@@ -7,7 +7,7 @@ tags: [wow]
 image: "https://i.imgur.com/SJ2EIhk.jpeg"
 ---
 
-![Filosofando](./img/filosofando.png)
+![Filosofando]({{ site.cdnimg }}/img/filosofando.png)
 
 Você já parou para pensar por que só nos últimos séculos começamos a desenvolver tecnologias avançadas que tornam nossa vida tão confortável? Afinal, a civilização humana existe há pelo menos dez mil anos! Para entender esse fenômeno, vamos embarcar em uma jornada divertida, começando com uma lenda fascinante sobre Cristóvão Colombo.
 

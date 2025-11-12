@@ -7,7 +7,7 @@ tags: [arquivo, arquivo]
 image: "./img/cinzas-de-amor.jpg"
 ---
 
-![Gean Ramos - Cinzas de Amor: Reflexões Pós-Carnaval](./img/cinzas-de-amor.jpg)
+![Gean Ramos - Cinzas de Amor: Reflexões Pós-Carnaval]({{ site.cdnimg }}/img/cinzas-de-amor.jpg)
 
 **Cinzas de Amor**
 

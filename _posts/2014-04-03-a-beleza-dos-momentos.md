@@ -7,7 +7,7 @@ tags: [arquivo]
 image: "./img/apaixonar-se.jpg"
 ---
 
-![Gean Ramos - O curto e doce: Momentos que valem a pena na vida.](./img/apaixonar-se.jpg)
+![Gean Ramos - O curto e doce: Momentos que valem a pena na vida.]({{ site.cdnimg }}/img/apaixonar-se.jpg)
 
 **Apaixonar-se pode ser complicado, mas é bom demais! Descubra porquê.**
 

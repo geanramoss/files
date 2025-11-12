@@ -7,9 +7,9 @@ tags: [memories]
 image: "./img/ressurreicao.jpg"
 ---
 
-![As razões que o amor desconhece](./img/filosofando.png)
+![As razões que o amor desconhece]({{ site.cdnimg }}/img/filosofando.png)
 
-![As razões que o amor desconhece](./img/ressurreicao.jpg)
+![As razões que o amor desconhece]({{ site.cdnimg }}/img/ressurreicao.jpg)
 
 > _Passei por muita coisa na vida e agora penso que encontrei o que é necessário para a felicidade. Uma vida tranquila e isolada no campo,
 > com a possibilidade de ser útil à gente para quem é fácil fazer o bem

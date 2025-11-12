@@ -7,7 +7,7 @@ tags: [arquivo, arquivo]
 image: "./img/desafios-do-amor.jpg"
 ---
 
-![Gean Ramos - Desafios do Amor: Vale a Pena?.](./img/desafios-do-amor.jpg)
+![Gean Ramos - Desafios do Amor: Vale a Pena?.]({{ site.cdnimg }}/img/desafios-do-amor.jpg)
 
 **Sobrevivendo ao Amor (e à Guerra)**
 

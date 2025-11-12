@@ -7,7 +7,7 @@ tags: [arquivo, arquivo]
 image: "./img/amor-em-segredo.jpg"
 ---
 
-![Gean Ramos - Encanto Secreto: Um Amor Platônico Revelado](./img/amor-em-segredo.jpg)
+![Gean Ramos - Encanto Secreto: Um Amor Platônico Revelado]({{ site.cdnimg }}/img/amor-em-segredo.jpg)
 
  **Pensamentos Vagantes: O Quase-Amor Não Correspondido**
 

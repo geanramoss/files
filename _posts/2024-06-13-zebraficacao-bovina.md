@@ -6,7 +6,7 @@ categories: wow
 tags: [wow]
 image: "./img/zebraficacao-bovina.jpg"
 ---
-![você sabia?](./img/voce-sabia.png)
+![você sabia?]({{ site.cdnimg }}/img/voce-sabia.png)
 
 ![Britânicos e a Zebraficação Bovina](https://qph.cf2.quoracdn.net/main-qimg-eaa81d935d081cae537ddcf744c6a109)
 

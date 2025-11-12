@@ -6,7 +6,7 @@ image: "./img/menina-da-lua2.jpg"
 ---
 
 
-![Minha mãe era amor](./img/minha-mae-era-amor.jpg)
+![Minha mãe era amor]({{ site.cdnimg }}/img/minha-mae-era-amor.jpg)
 
 A Ana Maria, mãe da Laís, era amor.  **Amor, amor, amor e mais nada.**  Muito culta, elegante e sensata.
 
@@ -47,4 +47,4 @@ E como ela sabe que a sua mãe sofreu em deixá-la aqui sozinha, a Laís quer qu
 
 > Ficou curioso pra conhecer a Ana Maria?
 
-![Minha mãe era amor](./img/minha-mae-era-amor2.jpg)
+![Minha mãe era amor]({{ site.cdnimg }}/img/minha-mae-era-amor2.jpg)

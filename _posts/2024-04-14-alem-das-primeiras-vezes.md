@@ -5,7 +5,7 @@ description: "De certa forma todas as coisas acontecem sempre pela primeira vez 
 tags: [memories]
 ---
 
-![Além das primeiras vezes](./img/alem-das-primeiras-vezes.jpg)
+![Além das primeiras vezes]({{ site.cdnimg }}/img/alem-das-primeiras-vezes.jpg)
 
 _**Já senti muita inveja dos começos.**_ _E lastimava que as coisas boas não iriam ser inéditas de novo._  
   

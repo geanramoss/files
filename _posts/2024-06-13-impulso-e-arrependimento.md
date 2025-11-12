@@ -6,7 +6,7 @@ categories: ohayo
 tags: [ohayo]
 image: "https://i.imgur.com/7gY9d4P.jpeg"
 ---
-![](./img/rising-tag.png)
+![]({{ site.cdnimg }}/img/rising-tag.png)
 
 ![](https://i.imgur.com/7gY9d4P.jpeg)
 

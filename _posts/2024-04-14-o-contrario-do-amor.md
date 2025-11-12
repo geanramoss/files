@@ -5,7 +5,7 @@ description: "o contrário do amor é o ódio. Elas estão erradas. Faça uma en
 tags: [memories]
 ---
 
-![O contrário do amor](./img/indiferenca.jpg)
+![O contrário do amor]({{ site.cdnimg }}/img/indiferenca.jpg)
 
 O contrário de bonito é feio, de rico é pobre, de preto é branco, isso se aprende antes de entrar na escola. Se você fizer uma enquete entre as crianças, ouvirá também que o contrário do amor é o ódio. Elas estão erradas. Faça uma enquete entre adultos e descubra a resposta certa: **o contrário do amor não é o ódio, é a indiferença.**  
   

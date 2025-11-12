@@ -7,7 +7,7 @@ tags: [ohayo]
 image: "https://img.freepik.com/fotos-gratis/mulher-encostada-na-parede-olhando-para-baixo-em-um-corredor-com-fundo-desfocado-na-ilha-de-alcatraz_181624-2279.jpg"
 ---
 
-![](./img/rising-tag.png)
+![]({{ site.cdnimg }}/img/rising-tag.png)
 
 
 > você nunca mais vai ser tão jovem quanto é hoje. seja firme nos seus
