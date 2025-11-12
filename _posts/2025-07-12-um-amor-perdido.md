@@ -27,7 +27,7 @@ Ou seja, quem amou de verdade não fica vazio, fica... experiente? Calejado? A g
 
 ### A historia: Como Tudo Começou (e Terminou 😢)
 
-![Imagem: Pinterest]({{ site.cdn_url }}/img/f54abc19-b650-43c1-acae-81db6cd6db73_736x824.jpg)
+![Imagem: Pinterest]({{ site.cdnimg }}/img/f54abc19-b650-43c1-acae-81db6cd6db73_736x824.jpg)
 
 Pedro e Rafaela se conheceram em 2019, na fila da faculdade, com 17 aninhos. Clichê de filme, né? Ele bateu o olho nela e PÁ: amor à primeira vista. Chegou em casa e já avisou a família que tinha encontrado a mulher com quem ia casar. Emoção que fala? 😂
 
@@ -49,7 +49,7 @@ Agora, a parte que faz o coração apertar. Na próxima sexta-feira, 18 de julho
 
 Ele escreveu uma carta aberta, um pedido de desculpas, uma declaração de amor tardia. Prepara o coração e lê o que ele desabafou:
 
-![Imagem: VSCO]({{ site.cdn_url }}/660cd1e9-2d37-41ff-be1d-e742145690b8_736x981.jpg)
+![Imagem: VSCO]({{ site.cdnimg }}/660cd1e9-2d37-41ff-be1d-e742145690b8_736x981.jpg)
 > 
 > Em alguma história, ele lembra de ter lido que “o preço de amar muito alguém talvez seja nunca mais conseguir amar ninguém.” E, com sinceridade, tem medo que isso aconteça com ele. Talvez o medo seja tanto que ele até tenha se acostumado com a ideia.
 > 
