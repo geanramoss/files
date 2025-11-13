@@ -7,7 +7,7 @@ baseurl: '/'
 cdnimg: "https://cdn.jsdelivr.net/gh/geanramoss/files/"
 disqus: 'geanramos'
 email: 'blog@geanramos.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://gean.us3.list-manage.com/subscribe/post?u=02738a494302b508cd9c92841&amp;id=1088a8105a'
 
 include: ["_pages"]
 permalink: /:title.html
