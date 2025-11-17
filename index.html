@@ -177,34 +177,72 @@ description: "O lugar onde as histórias ganham vida! Junte-se a nós para roman
         
         {% endfor %}
         
-        <div class="mt-5">
-         <!-- Pagination links -->
-            {% if paginator.total_pages > 1 %}
-            <ul class="pagination"> 
-              {% if paginator.previous_page %}
-                <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Anterior</a></li>
-              {% else %}
-                <li class="page-item disabled"><span class="prev page-link">&laquo;</span></li>
-              {% endif %}
+<div class="mt-5">
+        {% if paginator.total_pages > 1 %}
+    <ul class="pagination">
 
-              {% for page in (1..paginator.total_pages) %}
-                {% if page == paginator.page %}
-                <li class="page-item disabled"><span class="webjeda page-link">{{ page }}</span></li>
-                {% elsif page == 1 %}
-                <li class="page-item"><a class="page-link" href="{{site.baseurl}}/">{{ page }}</a></li>
-                {% else %}
-                <li class="page-item"><a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
-                {% endif %}
-              {% endfor %}
+            {% if paginator.previous_page %}
+        <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Anterior</a></li>
+      {% else %}
+        <li class="page-item disabled"><span class="prev page-link">&laquo;</span></li>
+      {% endif %}
 
-              {% if paginator.next_page %}
-                <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Próxima &raquo;</a></li>
-              {% else %}
-                <li class="page-item disabled"><span class="next page-link">&raquo;</span></li>
-              {% endif %}
-            </ul>
-            {% endif %}      
-        </div>
+            {% assign max_links = 8 %}
+      {% assign current = paginator.page %}
+      {% assign total = paginator.total_pages %}
+      {% assign offset = max_links | divided_by: 2 %}
+
+      {% comment %} Calcula o início e o fim da janela {% endcomment %}
+      {% assign window_start = current | minus: offset | plus: 1 %}
+      {% assign window_end = current | plus: offset %}
+
+      {% comment %} Ajusta a janela se estiver perto do fim {% endcomment %}
+      {% if window_end > total %}
+        {% assign window_start = window_start | minus: window_end | plus: total %}
+        {% assign window_end = total %}
+      {% endif %}
+
+      {% comment %} Ajusta a janela se estiver perto do início {% endcomment %}
+      {% if window_start < 1 %}
+        {% assign window_end = window_end | minus: window_start | plus: 1 %}
+        {% assign window_start = 1 %}
+      {% endif %}
+
+      {% comment %} Garante que os limites não ultrapassem o total de páginas {% endcomment %}
+      {% if window_end > total %}{% assign window_end = total %}{% endif %}
+      {% if window_start < 1 %}{% assign window_start = 1 %}{% endif %}
+                  {% if window_start > 1 %}
+        <li class="page-item"><a class="page-link" href="{{site.baseurl}}/">1</a></li>
+        {% if window_start > 2 %}
+          <li class="page-item disabled"><span class="page-link">...</span></li>
+        {% endif %}
+      {% endif %}
+
+            {% for page in (window_start..window_end) %}
+        {% if page == paginator.page %}
+          <li class="page-item disabled"><span class="webjeda page-link">{{ page }}</span></li>
+        {% elsif page == 1 %}
+          <li class="page-item"><a class="page-link" href="{{site.baseurl}}/">{{ page }}</a></li>
+        {% else %}
+          <li class="page-item"><a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+        {% endif %}
+      {% endfor %}
+
+            {% if window_end < total %}
+        {% if window_end < total | minus: 1 %}
+          <li class="page-item disabled"><span class="page-link">...</span></li>
+        {% endif %}
+        <li class="page-item"><a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', total }}">{{ total }}</a></li>
+      {% endif %}
+
+            {% if paginator.next_page %}
+        <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Próxima &raquo;</a></li>
+s       {% else %}
+        <li class="page-item disabled"><span class="next page-link">&raquo;</span></li>
+      {% endif %}
+    </ul>
+    {% endif %}
+</div>
         
     </div>
     
