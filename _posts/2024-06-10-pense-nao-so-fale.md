@@ -4,12 +4,10 @@ date: 2024-06-10 13:09:47 -03:00
 description: Montesquieu nos lembra que falar é fácil, mas pensar é fundamental. Em um mundo de discursos prontos, é hora de exercitar o cérebro e ser o dono das próprias ideias! 🤔💭
 categories: ohayo
 tags: [ohayo]
-image: "https://i.pinimg.com/736x/d3/2c/67/d32c6758736edec5964b880bb04200c7.jpg"
+image: "./img/d32c6758736edec5964b880bb04200c7.jpg"
 ---
 
 ![FILOSOFANDO]({{ site.cdnimg }}/img/filosofando.png)
-
-![mulher branca, sentada na janela pensando e olando para rua.](https://i.pinimg.com/736x/d3/2c/67/d32c6758736edec5964b880bb04200c7.jpg)
 
 > Quanto menos os homens pensam, mais eles falam. 
 > Barão de Montesquieu
