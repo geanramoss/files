@@ -4,13 +4,10 @@ date: 2024-06-11 08:10:47 -03:00
 description: Refleta sobre a felicidade. Qual o significado da palavra? Quais as diferenças entre alegria e felicidade? Como levar uma vida mais feliz?
 categories: ohayo
 tags: [ohayo]
-image: "https://img.freepik.com/fotos-gratis/close-up-mulher-segurando-bebe_23-2149071565.jpg"
+image: "./img/close-up-mulher-segurando-bebe_23-2149071565.jpg"
 ---
 
 ![FILOSOFANDO]({{ site.cdnimg }}/img/filosofando.png)
-
-![close up mulher segurando bebe](https://img.freepik.com/fotos-gratis/close-up-mulher-segurando-bebe_23-2149071565.jpg)
-
 
 > "Existe apenas um único erro inato que é o de acreditarmos que vivemos para sermos felizes." - Schopenhauer
 
