@@ -236,8 +236,7 @@ description: "O lugar onde as histórias ganham vida! Junte-se a nós para roman
       {% endif %}
 
             {% if paginator.next_page %}
-        <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Próxima &raquo;</a></li>
-s       {% else %}
+        <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Próxima &raquo;</a></li>       {% else %}
         <li class="page-item disabled"><span class="next page-link">&raquo;</span></li>
       {% endif %}
     </ul>
