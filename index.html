@@ -39,7 +39,7 @@ description: "O lugar onde as histórias ganham vida! Junte-se a nós para roman
                 </span>                   
         </small>
         <small class="text-muted">
-            {{ latest_post.date | date: "%d" }} de {% assign m = post.date | date: "%m" %}{% case m %}{% when '01' %}janeiro{% when '02' %}fevereiro{% when '03' %}março{% when '04' %}abril{% when '05' %}maio{% when '06' %}junho{% when '07' %}julho{% when '08' %}agosto{% when '09' %}setembro{% when '10' %}outubro{% when '11' %}novembro{% when '12' %}dezembro{% endcase %} de {{ post.date | date: "%Y" }}
+            {{ latest_post.date | date: '%d de %b de %Y' | downcase }}
         </small>
     </div>
     </div>
